@@ -1,9 +1,17 @@
 {
+    "editor.fontFamily": "-system-monospaced, 'SF Mono', 'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
+    "editor.lineHeight": 24,
+    "editor.renderWhitespace": "selection",
     "[markdown]": {
         "editor.wordWrap": "on",
         "editor.quickSuggestions": false,
         "editor.rulers": [
             100
+        ]
+    },
+    "[csharp]": {
+        "editor.rulers": [
+            120
         ]
     }
 }
