@@ -1,0 +1,8 @@
+pre.highlight {
+    padding: 16px;
+}
+
+
+div.highlight, pre, code {
+    font-family: 'JetBrains Mono', ui-monospace, Menlo, Monaco, 'Courier New', Courier, monospace;
+}
