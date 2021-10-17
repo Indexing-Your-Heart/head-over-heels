@@ -1,6 +1,7 @@
 using Godot;
 using System;
 using Katorin.UI;
+using Katorin.Extensions;
 using System.Collections.Generic;
 
 namespace Katorin.RPG
@@ -19,10 +20,8 @@ namespace Katorin.RPG
             _player = GetNode<Player>("Player");
             _HUD = GetNode<HeadsUpDisplay>("HUD");
             _enemies = new HashSet<Enemy>();
-            foreach (var child in GetChildren())
+            foreach (var child in this.GetChildren(e => e is Enemy))
             {
-                if (!(child is Enemy))
-                    continue;
                 var enemy = (Enemy)child;
                 enemy.Connect(nameof(Entity.EntityDied), this, nameof(CleanUpDeadEnemies));
                 _enemies.Add(enemy);
