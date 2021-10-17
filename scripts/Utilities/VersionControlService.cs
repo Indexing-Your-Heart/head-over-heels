@@ -10,7 +10,7 @@ namespace Katorin.Utilities
     /// <see cref="IVersionable"/>
     public class VersionControlService<T> where T : IVersionable
     {
-        private Stack<T> _commits = new Stack<T>();
+        private readonly Stack<T> _commits = new Stack<T>();
 
         /// <summary> The number of commits in the commit history. </summary>
         public int Count { get => _commits.Count; }
