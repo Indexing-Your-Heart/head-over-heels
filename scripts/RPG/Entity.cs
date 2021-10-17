@@ -22,8 +22,8 @@ namespace Katorin.RPG
 
         /// <summary> A double that represents the entity's health. </summary>
         /// <remarks> This is a read-only property. To damage the entity, use <c>Entity.damage</c>. </remarks>
-        public Double Health { get { return _Health; } }
-        private Double _Health;
+        public Double Health { get => _health; }
+        private Double _health;
 
         /// <summary> Damage the entity's health by a given amount. </summary>
         /// <remarks> The <c>Entity.EntityDamaged</c> signal will emit when the entity is damaged. If the entity
@@ -31,10 +31,12 @@ namespace Katorin.RPG
         /// <param name="amount">The amount of damage to subtract from the entity's health.</param>
         public void Damage(Double amount)
         {
-            _Health -= amount;
-            if (_Health < 0) _Health = 0;
+            _health -= amount;
+            if (_health < 0)
+                _health = 0;
             EmitSignal(nameof(EntityDamaged));
-            if (_Health == 0) EmitSignal(nameof(EntityDied));
+            if (_health == 0)
+                EmitSignal(nameof(EntityDied));
         }
     }
 

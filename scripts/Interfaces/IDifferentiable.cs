@@ -6,6 +6,6 @@ namespace Katorin.Interfaces
     {
         /// <summary> Returns information that describes how to update a class to another version of a class. </summary>
         /// <param name="other"> The starting class that will use the delta to reach the current class's state. </param>
-        object delta(IDifferentiable other);
+        object Delta(IDifferentiable other);
     }
 }

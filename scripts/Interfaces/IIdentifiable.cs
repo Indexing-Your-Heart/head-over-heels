@@ -8,7 +8,7 @@ namespace Katorin.Interfaces
     public interface IIdentifiable
     {
         /// <summary>The globally-unique identifier for the class.</summary>
-        Guid id { get; set; }
+        Guid Id { get; set; }
 
     }
 }

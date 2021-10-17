@@ -16,25 +16,25 @@ namespace Katorin.RPG
 
         /// <summary> The number of developer experience points the player has. </summary>
         /// <see cref="DevLevel" />
-        public int DevExperience { get { return _DevExperience; } }
+        public int DevExperience { get => _devExperience; }
 
         /// <summary> The player's current level with respect to developer experience points. </summary>
         /// <remarks> A level is the equivalent to 25 developer experience points. </remarks>
         /// <see cref="DevExperience" />
-        public int DevLevel { get { return _DevExperience / 25; } }
-        private int _DevExperience = 0;
-        private Vector2 _Velocity = Vector2.Zero;
+        public int DevLevel { get => _devExperience / 25; }
+        private int _devExperience = 0;
+        private Vector2 _velocity = Vector2.Zero;
 
         #region Node Instance Fields
-        private AnimationTree _AnimationStateMachine;
-        private ASMPlayback _AnimationPlayback;
+        private AnimationTree _animationStateMachine;
+        private ASMPlayback _animationPlayback;
         #endregion
 
         public override void _Ready()
         {
             base._Ready();
-            _AnimationStateMachine = GetNode<AnimationTree>("ASM");
-            _AnimationPlayback = (ASMPlayback)_AnimationStateMachine.Get("parameters/playback");
+            _animationStateMachine = GetNode<AnimationTree>("ASM");
+            _animationPlayback = (ASMPlayback)_animationStateMachine.Get("parameters/playback");
         }
 
         /// <summary> Adds an arbitrary amount of developer experience points to the player. </summary>
@@ -44,8 +44,9 @@ namespace Katorin.RPG
         public void Grant(int amount)
         {
             int currentLevel = DevLevel;
-            _DevExperience += amount;
-            if (currentLevel < DevLevel) EmitSignal(nameof(LeveledUp), DevLevel);
+            _devExperience += amount;
+            if (currentLevel < DevLevel)
+                EmitSignal(nameof(LeveledUp), DevLevel);
         }
 
         /// <summary> Adds an arbitrary amount of developer experience points to the player based on a given
@@ -80,11 +81,11 @@ namespace Katorin.RPG
             if (movementVector != Vector2.Zero)
             {
                 SetAnimationBlendPosition(movementVector);
-                _Velocity += movementVector * acceleration * delta;
-                _Velocity = _Velocity.Clamped(maxSpeed * delta);
+                _velocity += movementVector * acceleration * delta;
+                _velocity = _velocity.Clamped(maxSpeed * delta);
             }
-            else _Velocity = _Velocity.MoveToward(Vector2.Zero, friction * delta);
-            MoveAndSlide(_Velocity * delta * speed);
+            else _velocity = _velocity.MoveToward(Vector2.Zero, friction * delta);
+            MoveAndSlide(_velocity * delta * speed);
         }
 
         private Vector2 GetMovementVector()
@@ -97,14 +98,15 @@ namespace Katorin.RPG
 
         private void SetAnimationBlendPosition(Vector2 blendVector)
         {
-            _AnimationStateMachine.Set("parameters/idle/blend_position", blendVector);
-            _AnimationStateMachine.Set("parameters/walk/blend_position", blendVector);
+            _animationStateMachine.Set("parameters/idle/blend_position", blendVector);
+            _animationStateMachine.Set("parameters/walk/blend_position", blendVector);
         }
 
         private void SetAnimationPlaybackState(Vector2 fromPositionState)
         {
-            if (fromPositionState != Vector2.Zero) _AnimationPlayback.Travel("walk");
-            else _AnimationPlayback.Travel("idle");
+            if (fromPositionState != Vector2.Zero)
+                _animationPlayback.Travel("walk");
+            else _animationPlayback.Travel("idle");
         }
 
     }
