@@ -16,11 +16,11 @@ namespace Katorin.UI
             _currentInformation = GetNode<Label>("Label");
             _playerOrNull = GetNodeOrNull<Player>(TargetPlayer);
             if (_playerOrNull != null)
-                _playerOrNull.Connect(nameof(Entity.EntityDamaged), this, nameof(_Render));
+                _playerOrNull.Connect(nameof(Entity.EntityDamaged), this, nameof(Render));
             else GD.PushWarning("Instantiated player for HUD is null.");
         }
 
-        private void _Render()
+        private void Render()
         {
             _currentInformation.Text = $"Player Health: {_playerOrNull.Health} / {_playerOrNull.DefaultHealth}\n"
                 + $"Player DXP: {_playerOrNull.DevExperience} (Level {_playerOrNull.DevLevel})";

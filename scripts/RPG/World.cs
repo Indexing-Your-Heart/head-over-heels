@@ -1,8 +1,8 @@
-using Godot;
 using System;
-using Katorin.UI;
-using Katorin.Extensions;
 using System.Collections.Generic;
+using Godot;
+using Katorin.Extensions;
+using Katorin.UI;
 
 namespace Katorin.RPG
 {
