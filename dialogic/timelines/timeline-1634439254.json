@@ -1,0 +1,51 @@
+{
+	"events": [
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is it alright if I take a seat over there?"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Luma takes a seat on the sofa."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hope you don't mind me putting my, uh, stub on the sofa..."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't mind."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Luma gently brings herself up onto the sofa in a comfortable spot."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sit across from here in the chair."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1634439254.json",
+		"name": "Post-Set One"
+	}
+}

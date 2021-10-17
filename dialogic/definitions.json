@@ -1,0 +1,25 @@
+{
+	"glossary": [
+
+	],
+	"variables": [
+		{
+			"id": "1634434011-648",
+			"name": "PlayerName",
+			"type": 0,
+			"value": "You"
+		},
+		{
+			"id": "1634438325-870",
+			"name": "ChoiceCond",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1634439337-485",
+			"name": "LastSelectedOptions",
+			"type": 0,
+			"value": ""
+		}
+	]
+}

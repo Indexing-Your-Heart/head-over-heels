@@ -5,10 +5,23 @@
 	"folders": {
 		"Characters": {
 			"files": [
-
+				"character-1634433994.json"
 			],
 			"folders": {
+				"Katorin": {
+					"files": [
+						"character-1634434817.json",
+						"character-1634434821.json",
+						"character-1634434825.json"
+					],
+					"folders": {
 
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				}
 			},
 			"metadata": {
 				"color": null,
@@ -17,7 +30,9 @@
 		},
 		"Definitions": {
 			"files": [
-
+				"1634434011-648",
+				"1634438325-870",
+				"1634439337-485"
 			],
 			"folders": {
 
@@ -36,7 +51,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Timelines": {
@@ -44,7 +59,30 @@
 
 			],
 			"folders": {
+				"Chapter One": {
+					"files": [
+						"timeline-1634434186.json",
+						"timeline-1634439254.json"
+					],
+					"folders": {
+						"Dialog Choices": {
+							"files": [
+								"timeline-1634438512.json"
+							],
+							"folders": {
 
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						}
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				}
 			},
 			"metadata": {
 				"color": null,
