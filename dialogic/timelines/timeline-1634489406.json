@@ -1,0 +1,375 @@
+{
+	"events": [
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[PlayerName], how close are you with her?"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We're mostly just colleagues. Never really got father than that."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sure you know how busy she gets."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hehe, yeah..."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's kind of why I just pop in here and there. She's pretty much used to it by now."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm, I see..."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, uh, what kinds of things do you do in your spare time, then?"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides relaxing and occasionally hanging out with friends, not much."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just get too tired to commit to a larger side project like Katorin can."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hehe, yeah. I'm impressed she's still going with all of the other projects she has."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "She has other projects?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, definitely! She doesn't talk much about them nowadays, but she does have them."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's... impressive."
+		},
+		{
+			"choice": "That's impressive. I had no idea!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess she never really talked to you about them."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not surprised; she doesn't really talk about them nowadays."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe I'll take up a new hobby or something. There's always something new to try, right?"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haha, I guess! Watching over a candle wasn't something your bucket list, probably."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even I don't know at this point."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "That's a costume, right?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Luma giggles."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, [PlayerName], I hope you're joking. Do you really think anthro-candles exist?"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Obviously not."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm only teasing. Of course this is a costume. A rather comfy one at that!"
+		},
+		{
+			"choice": "Are you comfortable in that costume?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure I am! It's almost like a sleeping bag."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean, it's a bit tricky not having any arms available, but not a big deal to me."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you wear that all the time?"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, they don't call me 'Luma' for nothing... What's inside is not that impressive."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah. Well, it doesn't really matter to me."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're more than welcome to take it off if it gets too uncomfortable. Make yourself at home."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks [PlayerName]. You're very kind."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe I will at some point, or unzip the stub at the very least."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, [PlayerName], you're not like most people I've met."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I actually... kind of like you."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... eh?"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like, out of all the people I've met, I'd me most likely to date you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Luma, we just met...",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No no no, I didn't mean that like a proposal to date!"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's up to you if you wanna do that."
+		},
+		{
+			"choice": "Wait, are you asking to date me?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, uh, not really. Unless that's something you wanna try..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... I have my doubts."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay. Maybe I do want to."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But only if you're willing to! I don't want you to feel like you don't have a choice."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You pause and think for a short moment."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess it wouldn't hurt to try."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, uh, I hope you like what you'll get!"
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe. I've never dated an anthro-candle before."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haha! You're funny, [PlayerName]."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe if we do have something between us, you'll see more than just this costume."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hope so."
+		},
+		{
+			"definition": "1634438325-870",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "2"
+		},
+		{
+			"change_timeline": "timeline-1634492376.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1634489406.json",
+		"name": "Post-Set Two"
+	}
+}

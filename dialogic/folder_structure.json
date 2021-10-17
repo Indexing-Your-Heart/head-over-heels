@@ -32,7 +32,10 @@
 			"files": [
 				"1634434011-648",
 				"1634438325-870",
-				"1634439337-485"
+				"1634491346-648",
+				"1634491353-787",
+				"1634491359-366",
+				"1634491367-146"
 			],
 			"folders": {
 
@@ -51,7 +54,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Timelines": {
@@ -62,12 +65,16 @@
 				"Chapter One": {
 					"files": [
 						"timeline-1634434186.json",
-						"timeline-1634439254.json"
+						"timeline-1634439254.json",
+						"timeline-1634489406.json",
+						"timeline-1634492402.json"
 					],
 					"folders": {
 						"Dialog Choices": {
 							"files": [
-								"timeline-1634438512.json"
+								"timeline-1634438512.json",
+								"timeline-1634489204.json",
+								"timeline-1634492376.json"
 							],
 							"folders": {
 

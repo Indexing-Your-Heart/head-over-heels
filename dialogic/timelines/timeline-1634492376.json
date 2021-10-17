@@ -23,7 +23,7 @@
 			"set_value": "0"
 		},
 		{
-			"change_timeline": "timeline-1634439254.json",
+			"change_timeline": "timeline-1634492402.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -36,23 +36,14 @@
 
 			],
 			"portrait": "",
-			"question": "",
-			"should_loop": false
+			"question": ""
 		},
 		{
-			"choice": "You know, she hasn't really told me about you.",
+			"choice": "Have you eaten already?",
 			"condition": "",
 			"definition": "1634491346-648",
 			"event_id": "dialogic_011",
 			"value": "0"
-		},
-		{
-			"definition": "1634438325-870",
-			"event_id": "dialogic_014",
-			"operation": "-",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
 		},
 		{
 			"definition": "1634491346-648",
@@ -63,19 +54,27 @@
 			"set_value": "1"
 		},
 		{
-			"character": "character-1634434821.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Huh. The first I've heard of you was this morning when she hobbled this together."
+			"definition": "1634438325-870",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "She's told me of her friends and colleagues, but I don't know why she omitted you from that."
+			"text": "Yep! I had something before I got on the bus."
 		},
 		{
-			"choice": "It seems like this vacation was a bit rushed.",
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I try to not eat past 7PM, really. Would be, uh, hard to hop around otherwise!"
+		},
+		{
+			"choice": "Would you like me to get you anything?",
 			"condition": "",
 			"definition": "1634491353-787",
 			"event_id": "dialogic_011",
@@ -101,31 +100,25 @@
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Maybe. Probably one of those company policy things."
-		},
-		{
-			"character": "character-1634433994.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "She never really goes on vacation a lot, though. She deserves the break from the action for a little while."
+			"text": "It's fine [PlayerName], really! I got myself taken care of before I left."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Of course! I just find it a bit weird she didn't plan this through and through like she usually does."
+			"text": "I appreciate the gesture, though!"
 		},
 		{
 			"event_id": "dialogic_013"
 		},
 		{
-			"change_timeline": "timeline-1634438512.json",
+			"change_timeline": "timeline-1634492376.json",
 			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
 		"dialogic-version": "1.3",
-		"file": "timeline-1634438512.json",
-		"name": "Set One"
+		"file": "timeline-1634492376.json",
+		"name": "Set Three"
 	}
 }

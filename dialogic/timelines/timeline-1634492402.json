@@ -1,0 +1,59 @@
+{
+	"events": [
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay. Before I forget, let me give you a spare key for the apartment."
+		},
+		{
+			"character": "character-1634433994.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not gonna be here during the day, so if you wanted to go out or something, you'll need it to unlock the door."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hand Luma the spare key to the apartment."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, thanks! Could you put it over there?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Luma points to the end of the coffee table in the room with her \"stub\"."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You place it gently at the pointed out spot and continue your daily routine."
+		},
+		{
+			"custom_slot": "",
+			"event_id": "dialogic_026",
+			"use_default_slot": true
+		},
+		{
+			"action": "leaveall",
+			"character": "[All]",
+			"event_id": "dialogic_003"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1634492402.json",
+		"name": "Epilogue"
+	}
+}

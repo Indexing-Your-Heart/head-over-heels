@@ -4,22 +4,40 @@
 	],
 	"variables": [
 		{
-			"id": "1634434011-648",
-			"name": "PlayerName",
-			"type": 0,
-			"value": "You"
-		},
-		{
 			"id": "1634438325-870",
 			"name": "ChoiceCond",
 			"type": 0,
 			"value": "1"
 		},
 		{
-			"id": "1634439337-485",
-			"name": "LastSelectedOptions",
+			"id": "1634491346-648",
+			"name": "ChoiceASelect",
 			"type": 0,
-			"value": ""
+			"value": "0"
+		},
+		{
+			"id": "1634491367-146",
+			"name": "ChoiceDSelect",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1634491359-366",
+			"name": "ChoiceCSelect",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1634491353-787",
+			"name": "ChoiceBSelect",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1634434011-648",
+			"name": "PlayerName",
+			"type": 0,
+			"value": "You"
 		}
 	]
 }
