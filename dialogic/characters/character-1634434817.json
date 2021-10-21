@@ -1,740 +1,740 @@
 {
-    "color": "#ffffffff",
-    "description": "",
-    "display_name": "",
-    "display_name_bool": false,
-    "id": "character-1634434817.json",
-    "mirror_portraits": false,
-    "name": "???",
-    "nickname": "",
-    "nickname_bool": false,
-    "offset_x": 0,
-    "offset_y": 700,
-    "portraits": [
-        {
-            "name": "Default",
-            "path": "res://assets/characters/katorin/1a-default.png"
-        },
-        {
-            "name": "1a-Aa",
-            "path": "res://assets/characters/katorin/1a-Aa.png"
-        },
-        {
-            "name": "1a-Blink",
-            "path": "res://assets/characters/katorin/1a-Blink.png"
-        },
-        {
-            "name": "1a-Embarrassed",
-            "path": "res://assets/characters/katorin/1a-Embarrassed.png"
-        },
-        {
-            "name": "1a-Love1",
-            "path": "res://assets/characters/katorin/1a-Love1.png"
-        },
-        {
-            "name": "1a-Love2",
-            "path": "res://assets/characters/katorin/1a-Love2.png"
-        },
-        {
-            "name": "1a-Oh",
-            "path": "res://assets/characters/katorin/1a-Oh.png"
-        },
-        {
-            "name": "1a-Smile",
-            "path": "res://assets/characters/katorin/1a-Smile.png"
-        },
-        {
-            "name": "1a-Surprised",
-            "path": "res://assets/characters/katorin/1a-Surprised.png"
-        },
-        {
-            "name": "1a-default",
-            "path": "res://assets/characters/katorin/1a-default.png"
-        },
-        {
-            "name": "1b-Aa",
-            "path": "res://assets/characters/katorin/1b-Aa.png"
-        },
-        {
-            "name": "1b-Blink",
-            "path": "res://assets/characters/katorin/1b-Blink.png"
-        },
-        {
-            "name": "1b-Embarrassed",
-            "path": "res://assets/characters/katorin/1b-Embarrassed.png"
-        },
-        {
-            "name": "1b-Love1",
-            "path": "res://assets/characters/katorin/1b-Love1.png"
-        },
-        {
-            "name": "1b-Love2",
-            "path": "res://assets/characters/katorin/1b-Love2.png"
-        },
-        {
-            "name": "1b-Oh",
-            "path": "res://assets/characters/katorin/1b-Oh.png"
-        },
-        {
-            "name": "1b-Smile",
-            "path": "res://assets/characters/katorin/1b-Smile.png"
-        },
-        {
-            "name": "1b-Surprised",
-            "path": "res://assets/characters/katorin/1b-Surprised.png"
-        },
-        {
-            "name": "1b-default",
-            "path": "res://assets/characters/katorin/1b-default.png"
-        },
-        {
-            "name": "1c-Aa",
-            "path": "res://assets/characters/katorin/1c-Aa.png"
-        },
-        {
-            "name": "1c-Blink",
-            "path": "res://assets/characters/katorin/1c-Blink.png"
-        },
-        {
-            "name": "1c-Embarrassed",
-            "path": "res://assets/characters/katorin/1c-Embarrassed.png"
-        },
-        {
-            "name": "1c-Love1",
-            "path": "res://assets/characters/katorin/1c-Love1.png"
-        },
-        {
-            "name": "1c-Love2",
-            "path": "res://assets/characters/katorin/1c-Love2.png"
-        },
-        {
-            "name": "1c-Oh",
-            "path": "res://assets/characters/katorin/1c-Oh.png"
-        },
-        {
-            "name": "1c-Smile",
-            "path": "res://assets/characters/katorin/1c-Smile.png"
-        },
-        {
-            "name": "1c-Surprised",
-            "path": "res://assets/characters/katorin/1c-Surprised.png"
-        },
-        {
-            "name": "1c-default",
-            "path": "res://assets/characters/katorin/1c-default.png"
-        },
-        {
-            "name": "1d-Aa",
-            "path": "res://assets/characters/katorin/1d-Aa.png"
-        },
-        {
-            "name": "1d-Blink",
-            "path": "res://assets/characters/katorin/1d-Blink.png"
-        },
-        {
-            "name": "1d-Embarrassed",
-            "path": "res://assets/characters/katorin/1d-Embarrassed.png"
-        },
-        {
-            "name": "1d-Love1",
-            "path": "res://assets/characters/katorin/1d-Love1.png"
-        },
-        {
-            "name": "1d-Love2",
-            "path": "res://assets/characters/katorin/1d-Love2.png"
-        },
-        {
-            "name": "1d-Oh",
-            "path": "res://assets/characters/katorin/1d-Oh.png"
-        },
-        {
-            "name": "1d-Smile",
-            "path": "res://assets/characters/katorin/1d-Smile.png"
-        },
-        {
-            "name": "1d-Surprised",
-            "path": "res://assets/characters/katorin/1d-Surprised.png"
-        },
-        {
-            "name": "1d-default",
-            "path": "res://assets/characters/katorin/1d-default.png"
-        },
-        {
-            "name": "2a-Aa",
-            "path": "res://assets/characters/katorin/2a-Aa.png"
-        },
-        {
-            "name": "2a-Blink",
-            "path": "res://assets/characters/katorin/2a-Blink.png"
-        },
-        {
-            "name": "2a-Embarrassed",
-            "path": "res://assets/characters/katorin/2a-Embarrassed.png"
-        },
-        {
-            "name": "2a-Love1",
-            "path": "res://assets/characters/katorin/2a-Love1.png"
-        },
-        {
-            "name": "2a-Love2",
-            "path": "res://assets/characters/katorin/2a-Love2.png"
-        },
-        {
-            "name": "2a-Oh",
-            "path": "res://assets/characters/katorin/2a-Oh.png"
-        },
-        {
-            "name": "2a-Smile",
-            "path": "res://assets/characters/katorin/2a-Smile.png"
-        },
-        {
-            "name": "2a-Surprised",
-            "path": "res://assets/characters/katorin/2a-Surprised.png"
-        },
-        {
-            "name": "2a-default",
-            "path": "res://assets/characters/katorin/2a-default.png"
-        },
-        {
-            "name": "2b-Aa",
-            "path": "res://assets/characters/katorin/2b-Aa.png"
-        },
-        {
-            "name": "2b-Blink",
-            "path": "res://assets/characters/katorin/2b-Blink.png"
-        },
-        {
-            "name": "2b-Embarrassed",
-            "path": "res://assets/characters/katorin/2b-Embarrassed.png"
-        },
-        {
-            "name": "2b-Love1",
-            "path": "res://assets/characters/katorin/2b-Love1.png"
-        },
-        {
-            "name": "2b-Love2",
-            "path": "res://assets/characters/katorin/2b-Love2.png"
-        },
-        {
-            "name": "2b-Oh",
-            "path": "res://assets/characters/katorin/2b-Oh.png"
-        },
-        {
-            "name": "2b-Smile",
-            "path": "res://assets/characters/katorin/2b-Smile.png"
-        },
-        {
-            "name": "2b-Surprised",
-            "path": "res://assets/characters/katorin/2b-Surprised.png"
-        },
-        {
-            "name": "2b-default",
-            "path": "res://assets/characters/katorin/2b-default.png"
-        },
-        {
-            "name": "2c-Aa",
-            "path": "res://assets/characters/katorin/2c-Aa.png"
-        },
-        {
-            "name": "2c-Blink",
-            "path": "res://assets/characters/katorin/2c-Blink.png"
-        },
-        {
-            "name": "2c-Embarrassed",
-            "path": "res://assets/characters/katorin/2c-Embarrassed.png"
-        },
-        {
-            "name": "2c-Love1",
-            "path": "res://assets/characters/katorin/2c-Love1.png"
-        },
-        {
-            "name": "2c-Love2",
-            "path": "res://assets/characters/katorin/2c-Love2.png"
-        },
-        {
-            "name": "2c-Oh",
-            "path": "res://assets/characters/katorin/2c-Oh.png"
-        },
-        {
-            "name": "2c-Smile",
-            "path": "res://assets/characters/katorin/2c-Smile.png"
-        },
-        {
-            "name": "2c-Surprised",
-            "path": "res://assets/characters/katorin/2c-Surprised.png"
-        },
-        {
-            "name": "2c-default",
-            "path": "res://assets/characters/katorin/2c-default.png"
-        },
-        {
-            "name": "2d-Aa",
-            "path": "res://assets/characters/katorin/2d-Aa.png"
-        },
-        {
-            "name": "2d-Blink",
-            "path": "res://assets/characters/katorin/2d-Blink.png"
-        },
-        {
-            "name": "2d-Embarrassed",
-            "path": "res://assets/characters/katorin/2d-Embarrassed.png"
-        },
-        {
-            "name": "2d-Love1",
-            "path": "res://assets/characters/katorin/2d-Love1.png"
-        },
-        {
-            "name": "2d-Love2",
-            "path": "res://assets/characters/katorin/2d-Love2.png"
-        },
-        {
-            "name": "2d-Oh",
-            "path": "res://assets/characters/katorin/2d-Oh.png"
-        },
-        {
-            "name": "2d-Smile",
-            "path": "res://assets/characters/katorin/2d-Smile.png"
-        },
-        {
-            "name": "2d-Surprised",
-            "path": "res://assets/characters/katorin/2d-Surprised.png"
-        },
-        {
-            "name": "2d-default",
-            "path": "res://assets/characters/katorin/2d-default.png"
-        },
-        {
-            "name": "3a-Aa",
-            "path": "res://assets/characters/katorin/3a-Aa.png"
-        },
-        {
-            "name": "3a-Blink",
-            "path": "res://assets/characters/katorin/3a-Blink.png"
-        },
-        {
-            "name": "3a-Embarrassed",
-            "path": "res://assets/characters/katorin/3a-Embarrassed.png"
-        },
-        {
-            "name": "3a-Love1",
-            "path": "res://assets/characters/katorin/3a-Love1.png"
-        },
-        {
-            "name": "3a-Love2",
-            "path": "res://assets/characters/katorin/3a-Love2.png"
-        },
-        {
-            "name": "3a-Oh",
-            "path": "res://assets/characters/katorin/3a-Oh.png"
-        },
-        {
-            "name": "3a-Smile",
-            "path": "res://assets/characters/katorin/3a-Smile.png"
-        },
-        {
-            "name": "3a-Surprised",
-            "path": "res://assets/characters/katorin/3a-Surprised.png"
-        },
-        {
-            "name": "3a-default",
-            "path": "res://assets/characters/katorin/3a-default.png"
-        },
-        {
-            "name": "3b-Aa",
-            "path": "res://assets/characters/katorin/3b-Aa.png"
-        },
-        {
-            "name": "3b-Blink",
-            "path": "res://assets/characters/katorin/3b-Blink.png"
-        },
-        {
-            "name": "3b-Embarrassed",
-            "path": "res://assets/characters/katorin/3b-Embarrassed.png"
-        },
-        {
-            "name": "3b-Love1",
-            "path": "res://assets/characters/katorin/3b-Love1.png"
-        },
-        {
-            "name": "3b-Love2",
-            "path": "res://assets/characters/katorin/3b-Love2.png"
-        },
-        {
-            "name": "3b-Oh",
-            "path": "res://assets/characters/katorin/3b-Oh.png"
-        },
-        {
-            "name": "3b-Smile",
-            "path": "res://assets/characters/katorin/3b-Smile.png"
-        },
-        {
-            "name": "3b-Surprised",
-            "path": "res://assets/characters/katorin/3b-Surprised.png"
-        },
-        {
-            "name": "3b-default",
-            "path": "res://assets/characters/katorin/3b-default.png"
-        },
-        {
-            "name": "3c-Aa",
-            "path": "res://assets/characters/katorin/3c-Aa.png"
-        },
-        {
-            "name": "3c-Blink",
-            "path": "res://assets/characters/katorin/3c-Blink.png"
-        },
-        {
-            "name": "3c-Embarrassed",
-            "path": "res://assets/characters/katorin/3c-Embarrassed.png"
-        },
-        {
-            "name": "3c-Love1",
-            "path": "res://assets/characters/katorin/3c-Love1.png"
-        },
-        {
-            "name": "3c-Love2",
-            "path": "res://assets/characters/katorin/3c-Love2.png"
-        },
-        {
-            "name": "3c-Oh",
-            "path": "res://assets/characters/katorin/3c-Oh.png"
-        },
-        {
-            "name": "3c-Smile",
-            "path": "res://assets/characters/katorin/3c-Smile.png"
-        },
-        {
-            "name": "3c-Surprised",
-            "path": "res://assets/characters/katorin/3c-Surprised.png"
-        },
-        {
-            "name": "3c-default",
-            "path": "res://assets/characters/katorin/3c-default.png"
-        },
-        {
-            "name": "3d-Aa",
-            "path": "res://assets/characters/katorin/3d-Aa.png"
-        },
-        {
-            "name": "3d-Blink",
-            "path": "res://assets/characters/katorin/3d-Blink.png"
-        },
-        {
-            "name": "3d-Embarrassed",
-            "path": "res://assets/characters/katorin/3d-Embarrassed.png"
-        },
-        {
-            "name": "3d-Love1",
-            "path": "res://assets/characters/katorin/3d-Love1.png"
-        },
-        {
-            "name": "3d-Love2",
-            "path": "res://assets/characters/katorin/3d-Love2.png"
-        },
-        {
-            "name": "3d-Oh",
-            "path": "res://assets/characters/katorin/3d-Oh.png"
-        },
-        {
-            "name": "3d-Smile",
-            "path": "res://assets/characters/katorin/3d-Smile.png"
-        },
-        {
-            "name": "3d-Surprised",
-            "path": "res://assets/characters/katorin/3d-Surprised.png"
-        },
-        {
-            "name": "3d-default",
-            "path": "res://assets/characters/katorin/3d-default.png"
-        },
-        {
-            "name": "4a-Aa",
-            "path": "res://assets/characters/katorin/4a-Aa.png"
-        },
-        {
-            "name": "4a-Blink",
-            "path": "res://assets/characters/katorin/4a-Blink.png"
-        },
-        {
-            "name": "4a-Embarrassed",
-            "path": "res://assets/characters/katorin/4a-Embarrassed.png"
-        },
-        {
-            "name": "4a-Love1",
-            "path": "res://assets/characters/katorin/4a-Love1.png"
-        },
-        {
-            "name": "4a-Love2",
-            "path": "res://assets/characters/katorin/4a-Love2.png"
-        },
-        {
-            "name": "4a-Oh",
-            "path": "res://assets/characters/katorin/4a-Oh.png"
-        },
-        {
-            "name": "4a-Smile",
-            "path": "res://assets/characters/katorin/4a-Smile.png"
-        },
-        {
-            "name": "4a-Surprised",
-            "path": "res://assets/characters/katorin/4a-Surprised.png"
-        },
-        {
-            "name": "4a-default",
-            "path": "res://assets/characters/katorin/4a-default.png"
-        },
-        {
-            "name": "4b-Aa",
-            "path": "res://assets/characters/katorin/4b-Aa.png"
-        },
-        {
-            "name": "4b-Blink",
-            "path": "res://assets/characters/katorin/4b-Blink.png"
-        },
-        {
-            "name": "4b-Embarrassed",
-            "path": "res://assets/characters/katorin/4b-Embarrassed.png"
-        },
-        {
-            "name": "4b-Love1",
-            "path": "res://assets/characters/katorin/4b-Love1.png"
-        },
-        {
-            "name": "4b-Love2",
-            "path": "res://assets/characters/katorin/4b-Love2.png"
-        },
-        {
-            "name": "4b-Oh",
-            "path": "res://assets/characters/katorin/4b-Oh.png"
-        },
-        {
-            "name": "4b-Smile",
-            "path": "res://assets/characters/katorin/4b-Smile.png"
-        },
-        {
-            "name": "4b-Surprised",
-            "path": "res://assets/characters/katorin/4b-Surprised.png"
-        },
-        {
-            "name": "4b-default",
-            "path": "res://assets/characters/katorin/4b-default.png"
-        },
-        {
-            "name": "4c-Aa",
-            "path": "res://assets/characters/katorin/4c-Aa.png"
-        },
-        {
-            "name": "4c-Blink",
-            "path": "res://assets/characters/katorin/4c-Blink.png"
-        },
-        {
-            "name": "4c-Embarrassed",
-            "path": "res://assets/characters/katorin/4c-Embarrassed.png"
-        },
-        {
-            "name": "4c-Love1",
-            "path": "res://assets/characters/katorin/4c-Love1.png"
-        },
-        {
-            "name": "4c-Love2",
-            "path": "res://assets/characters/katorin/4c-Love2.png"
-        },
-        {
-            "name": "4c-Oh",
-            "path": "res://assets/characters/katorin/4c-Oh.png"
-        },
-        {
-            "name": "4c-Smile",
-            "path": "res://assets/characters/katorin/4c-Smile.png"
-        },
-        {
-            "name": "4c-Surprised",
-            "path": "res://assets/characters/katorin/4c-Surprised.png"
-        },
-        {
-            "name": "4c-default",
-            "path": "res://assets/characters/katorin/4c-default.png"
-        },
-        {
-            "name": "4d-Aa",
-            "path": "res://assets/characters/katorin/4d-Aa.png"
-        },
-        {
-            "name": "4d-Blink",
-            "path": "res://assets/characters/katorin/4d-Blink.png"
-        },
-        {
-            "name": "4d-Embarrassed",
-            "path": "res://assets/characters/katorin/4d-Embarrassed.png"
-        },
-        {
-            "name": "4d-Love1",
-            "path": "res://assets/characters/katorin/4d-Love1.png"
-        },
-        {
-            "name": "4d-Love2",
-            "path": "res://assets/characters/katorin/4d-Love2.png"
-        },
-        {
-            "name": "4d-Oh",
-            "path": "res://assets/characters/katorin/4d-Oh.png"
-        },
-        {
-            "name": "4d-Smile",
-            "path": "res://assets/characters/katorin/4d-Smile.png"
-        },
-        {
-            "name": "4d-Surprised",
-            "path": "res://assets/characters/katorin/4d-Surprised.png"
-        },
-        {
-            "name": "4d-default",
-            "path": "res://assets/characters/katorin/4d-default.png"
-        },
-        {
-            "name": "5a-Aa",
-            "path": "res://assets/characters/katorin/5a-Aa.png"
-        },
-        {
-            "name": "5a-Blink",
-            "path": "res://assets/characters/katorin/5a-Blink.png"
-        },
-        {
-            "name": "5a-Embarrassed",
-            "path": "res://assets/characters/katorin/5a-Embarrassed.png"
-        },
-        {
-            "name": "5a-Love1",
-            "path": "res://assets/characters/katorin/5a-Love1.png"
-        },
-        {
-            "name": "5a-Love2",
-            "path": "res://assets/characters/katorin/5a-Love2.png"
-        },
-        {
-            "name": "5a-Oh",
-            "path": "res://assets/characters/katorin/5a-Oh.png"
-        },
-        {
-            "name": "5a-Smile",
-            "path": "res://assets/characters/katorin/5a-Smile.png"
-        },
-        {
-            "name": "5a-Surprised",
-            "path": "res://assets/characters/katorin/5a-Surprised.png"
-        },
-        {
-            "name": "5a-default",
-            "path": "res://assets/characters/katorin/5a-default.png"
-        },
-        {
-            "name": "5b-Aa",
-            "path": "res://assets/characters/katorin/5b-Aa.png"
-        },
-        {
-            "name": "5b-Blink",
-            "path": "res://assets/characters/katorin/5b-Blink.png"
-        },
-        {
-            "name": "5b-Embarrassed",
-            "path": "res://assets/characters/katorin/5b-Embarrassed.png"
-        },
-        {
-            "name": "5b-Love1",
-            "path": "res://assets/characters/katorin/5b-Love1.png"
-        },
-        {
-            "name": "5b-Love2",
-            "path": "res://assets/characters/katorin/5b-Love2.png"
-        },
-        {
-            "name": "5b-Oh",
-            "path": "res://assets/characters/katorin/5b-Oh.png"
-        },
-        {
-            "name": "5b-Smile",
-            "path": "res://assets/characters/katorin/5b-Smile.png"
-        },
-        {
-            "name": "5b-Surprised",
-            "path": "res://assets/characters/katorin/5b-Surprised.png"
-        },
-        {
-            "name": "5b-default",
-            "path": "res://assets/characters/katorin/5b-default.png"
-        },
-        {
-            "name": "5c-Aa",
-            "path": "res://assets/characters/katorin/5c-Aa.png"
-        },
-        {
-            "name": "5c-Blink",
-            "path": "res://assets/characters/katorin/5c-Blink.png"
-        },
-        {
-            "name": "5c-Embarrassed",
-            "path": "res://assets/characters/katorin/5c-Embarrassed.png"
-        },
-        {
-            "name": "5c-Love1",
-            "path": "res://assets/characters/katorin/5c-Love1.png"
-        },
-        {
-            "name": "5c-Love2",
-            "path": "res://assets/characters/katorin/5c-Love2.png"
-        },
-        {
-            "name": "5c-Oh",
-            "path": "res://assets/characters/katorin/5c-Oh.png"
-        },
-        {
-            "name": "5c-Smile",
-            "path": "res://assets/characters/katorin/5c-Smile.png"
-        },
-        {
-            "name": "5c-Surprised",
-            "path": "res://assets/characters/katorin/5c-Surprised.png"
-        },
-        {
-            "name": "5c-default",
-            "path": "res://assets/characters/katorin/5c-default.png"
-        },
-        {
-            "name": "5d-Aa",
-            "path": "res://assets/characters/katorin/5d-Aa.png"
-        },
-        {
-            "name": "5d-Blink",
-            "path": "res://assets/characters/katorin/5d-Blink.png"
-        },
-        {
-            "name": "5d-Embarrassed",
-            "path": "res://assets/characters/katorin/5d-Embarrassed.png"
-        },
-        {
-            "name": "5d-Love1",
-            "path": "res://assets/characters/katorin/5d-Love1.png"
-        },
-        {
-            "name": "5d-Love2",
-            "path": "res://assets/characters/katorin/5d-Love2.png"
-        },
-        {
-            "name": "5d-Oh",
-            "path": "res://assets/characters/katorin/5d-Oh.png"
-        },
-        {
-            "name": "5d-Smile",
-            "path": "res://assets/characters/katorin/5d-Smile.png"
-        },
-        {
-            "name": "5d-Surprised",
-            "path": "res://assets/characters/katorin/5d-Surprised.png"
-        },
-        {
-            "name": "5d-default",
-            "path": "res://assets/characters/katorin/5d-default.png"
-        }
-    ],
-    "scale": 125
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1634434817.json",
+	"mirror_portraits": false,
+	"name": "???",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 832,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/characters/katorin/1a-default.png"
+		},
+		{
+			"name": "1a-Aa",
+			"path": "res://assets/characters/katorin/1a-Aa.png"
+		},
+		{
+			"name": "1a-Blink",
+			"path": "res://assets/characters/katorin/1a-Blink.png"
+		},
+		{
+			"name": "1a-Embarrassed",
+			"path": "res://assets/characters/katorin/1a-Embarrassed.png"
+		},
+		{
+			"name": "1a-Love1",
+			"path": "res://assets/characters/katorin/1a-Love1.png"
+		},
+		{
+			"name": "1a-Love2",
+			"path": "res://assets/characters/katorin/1a-Love2.png"
+		},
+		{
+			"name": "1a-Oh",
+			"path": "res://assets/characters/katorin/1a-Oh.png"
+		},
+		{
+			"name": "1a-Smile",
+			"path": "res://assets/characters/katorin/1a-Smile.png"
+		},
+		{
+			"name": "1a-Surprised",
+			"path": "res://assets/characters/katorin/1a-Surprised.png"
+		},
+		{
+			"name": "1a-default",
+			"path": "res://assets/characters/katorin/1a-default.png"
+		},
+		{
+			"name": "1b-Aa",
+			"path": "res://assets/characters/katorin/1b-Aa.png"
+		},
+		{
+			"name": "1b-Blink",
+			"path": "res://assets/characters/katorin/1b-Blink.png"
+		},
+		{
+			"name": "1b-Embarrassed",
+			"path": "res://assets/characters/katorin/1b-Embarrassed.png"
+		},
+		{
+			"name": "1b-Love1",
+			"path": "res://assets/characters/katorin/1b-Love1.png"
+		},
+		{
+			"name": "1b-Love2",
+			"path": "res://assets/characters/katorin/1b-Love2.png"
+		},
+		{
+			"name": "1b-Oh",
+			"path": "res://assets/characters/katorin/1b-Oh.png"
+		},
+		{
+			"name": "1b-Smile",
+			"path": "res://assets/characters/katorin/1b-Smile.png"
+		},
+		{
+			"name": "1b-Surprised",
+			"path": "res://assets/characters/katorin/1b-Surprised.png"
+		},
+		{
+			"name": "1b-default",
+			"path": "res://assets/characters/katorin/1b-default.png"
+		},
+		{
+			"name": "1c-Aa",
+			"path": "res://assets/characters/katorin/1c-Aa.png"
+		},
+		{
+			"name": "1c-Blink",
+			"path": "res://assets/characters/katorin/1c-Blink.png"
+		},
+		{
+			"name": "1c-Embarrassed",
+			"path": "res://assets/characters/katorin/1c-Embarrassed.png"
+		},
+		{
+			"name": "1c-Love1",
+			"path": "res://assets/characters/katorin/1c-Love1.png"
+		},
+		{
+			"name": "1c-Love2",
+			"path": "res://assets/characters/katorin/1c-Love2.png"
+		},
+		{
+			"name": "1c-Oh",
+			"path": "res://assets/characters/katorin/1c-Oh.png"
+		},
+		{
+			"name": "1c-Smile",
+			"path": "res://assets/characters/katorin/1c-Smile.png"
+		},
+		{
+			"name": "1c-Surprised",
+			"path": "res://assets/characters/katorin/1c-Surprised.png"
+		},
+		{
+			"name": "1c-default",
+			"path": "res://assets/characters/katorin/1c-default.png"
+		},
+		{
+			"name": "1d-Aa",
+			"path": "res://assets/characters/katorin/1d-Aa.png"
+		},
+		{
+			"name": "1d-Blink",
+			"path": "res://assets/characters/katorin/1d-Blink.png"
+		},
+		{
+			"name": "1d-Embarrassed",
+			"path": "res://assets/characters/katorin/1d-Embarrassed.png"
+		},
+		{
+			"name": "1d-Love1",
+			"path": "res://assets/characters/katorin/1d-Love1.png"
+		},
+		{
+			"name": "1d-Love2",
+			"path": "res://assets/characters/katorin/1d-Love2.png"
+		},
+		{
+			"name": "1d-Oh",
+			"path": "res://assets/characters/katorin/1d-Oh.png"
+		},
+		{
+			"name": "1d-Smile",
+			"path": "res://assets/characters/katorin/1d-Smile.png"
+		},
+		{
+			"name": "1d-Surprised",
+			"path": "res://assets/characters/katorin/1d-Surprised.png"
+		},
+		{
+			"name": "1d-default",
+			"path": "res://assets/characters/katorin/1d-default.png"
+		},
+		{
+			"name": "2a-Aa",
+			"path": "res://assets/characters/katorin/2a-Aa.png"
+		},
+		{
+			"name": "2a-Blink",
+			"path": "res://assets/characters/katorin/2a-Blink.png"
+		},
+		{
+			"name": "2a-Embarrassed",
+			"path": "res://assets/characters/katorin/2a-Embarrassed.png"
+		},
+		{
+			"name": "2a-Love1",
+			"path": "res://assets/characters/katorin/2a-Love1.png"
+		},
+		{
+			"name": "2a-Love2",
+			"path": "res://assets/characters/katorin/2a-Love2.png"
+		},
+		{
+			"name": "2a-Oh",
+			"path": "res://assets/characters/katorin/2a-Oh.png"
+		},
+		{
+			"name": "2a-Smile",
+			"path": "res://assets/characters/katorin/2a-Smile.png"
+		},
+		{
+			"name": "2a-Surprised",
+			"path": "res://assets/characters/katorin/2a-Surprised.png"
+		},
+		{
+			"name": "2a-default",
+			"path": "res://assets/characters/katorin/2a-default.png"
+		},
+		{
+			"name": "2b-Aa",
+			"path": "res://assets/characters/katorin/2b-Aa.png"
+		},
+		{
+			"name": "2b-Blink",
+			"path": "res://assets/characters/katorin/2b-Blink.png"
+		},
+		{
+			"name": "2b-Embarrassed",
+			"path": "res://assets/characters/katorin/2b-Embarrassed.png"
+		},
+		{
+			"name": "2b-Love1",
+			"path": "res://assets/characters/katorin/2b-Love1.png"
+		},
+		{
+			"name": "2b-Love2",
+			"path": "res://assets/characters/katorin/2b-Love2.png"
+		},
+		{
+			"name": "2b-Oh",
+			"path": "res://assets/characters/katorin/2b-Oh.png"
+		},
+		{
+			"name": "2b-Smile",
+			"path": "res://assets/characters/katorin/2b-Smile.png"
+		},
+		{
+			"name": "2b-Surprised",
+			"path": "res://assets/characters/katorin/2b-Surprised.png"
+		},
+		{
+			"name": "2b-default",
+			"path": "res://assets/characters/katorin/2b-default.png"
+		},
+		{
+			"name": "2c-Aa",
+			"path": "res://assets/characters/katorin/2c-Aa.png"
+		},
+		{
+			"name": "2c-Blink",
+			"path": "res://assets/characters/katorin/2c-Blink.png"
+		},
+		{
+			"name": "2c-Embarrassed",
+			"path": "res://assets/characters/katorin/2c-Embarrassed.png"
+		},
+		{
+			"name": "2c-Love1",
+			"path": "res://assets/characters/katorin/2c-Love1.png"
+		},
+		{
+			"name": "2c-Love2",
+			"path": "res://assets/characters/katorin/2c-Love2.png"
+		},
+		{
+			"name": "2c-Oh",
+			"path": "res://assets/characters/katorin/2c-Oh.png"
+		},
+		{
+			"name": "2c-Smile",
+			"path": "res://assets/characters/katorin/2c-Smile.png"
+		},
+		{
+			"name": "2c-Surprised",
+			"path": "res://assets/characters/katorin/2c-Surprised.png"
+		},
+		{
+			"name": "2c-default",
+			"path": "res://assets/characters/katorin/2c-default.png"
+		},
+		{
+			"name": "2d-Aa",
+			"path": "res://assets/characters/katorin/2d-Aa.png"
+		},
+		{
+			"name": "2d-Blink",
+			"path": "res://assets/characters/katorin/2d-Blink.png"
+		},
+		{
+			"name": "2d-Embarrassed",
+			"path": "res://assets/characters/katorin/2d-Embarrassed.png"
+		},
+		{
+			"name": "2d-Love1",
+			"path": "res://assets/characters/katorin/2d-Love1.png"
+		},
+		{
+			"name": "2d-Love2",
+			"path": "res://assets/characters/katorin/2d-Love2.png"
+		},
+		{
+			"name": "2d-Oh",
+			"path": "res://assets/characters/katorin/2d-Oh.png"
+		},
+		{
+			"name": "2d-Smile",
+			"path": "res://assets/characters/katorin/2d-Smile.png"
+		},
+		{
+			"name": "2d-Surprised",
+			"path": "res://assets/characters/katorin/2d-Surprised.png"
+		},
+		{
+			"name": "2d-default",
+			"path": "res://assets/characters/katorin/2d-default.png"
+		},
+		{
+			"name": "3a-Aa",
+			"path": "res://assets/characters/katorin/3a-Aa.png"
+		},
+		{
+			"name": "3a-Blink",
+			"path": "res://assets/characters/katorin/3a-Blink.png"
+		},
+		{
+			"name": "3a-Embarrassed",
+			"path": "res://assets/characters/katorin/3a-Embarrassed.png"
+		},
+		{
+			"name": "3a-Love1",
+			"path": "res://assets/characters/katorin/3a-Love1.png"
+		},
+		{
+			"name": "3a-Love2",
+			"path": "res://assets/characters/katorin/3a-Love2.png"
+		},
+		{
+			"name": "3a-Oh",
+			"path": "res://assets/characters/katorin/3a-Oh.png"
+		},
+		{
+			"name": "3a-Smile",
+			"path": "res://assets/characters/katorin/3a-Smile.png"
+		},
+		{
+			"name": "3a-Surprised",
+			"path": "res://assets/characters/katorin/3a-Surprised.png"
+		},
+		{
+			"name": "3a-default",
+			"path": "res://assets/characters/katorin/3a-default.png"
+		},
+		{
+			"name": "3b-Aa",
+			"path": "res://assets/characters/katorin/3b-Aa.png"
+		},
+		{
+			"name": "3b-Blink",
+			"path": "res://assets/characters/katorin/3b-Blink.png"
+		},
+		{
+			"name": "3b-Embarrassed",
+			"path": "res://assets/characters/katorin/3b-Embarrassed.png"
+		},
+		{
+			"name": "3b-Love1",
+			"path": "res://assets/characters/katorin/3b-Love1.png"
+		},
+		{
+			"name": "3b-Love2",
+			"path": "res://assets/characters/katorin/3b-Love2.png"
+		},
+		{
+			"name": "3b-Oh",
+			"path": "res://assets/characters/katorin/3b-Oh.png"
+		},
+		{
+			"name": "3b-Smile",
+			"path": "res://assets/characters/katorin/3b-Smile.png"
+		},
+		{
+			"name": "3b-Surprised",
+			"path": "res://assets/characters/katorin/3b-Surprised.png"
+		},
+		{
+			"name": "3b-default",
+			"path": "res://assets/characters/katorin/3b-default.png"
+		},
+		{
+			"name": "3c-Aa",
+			"path": "res://assets/characters/katorin/3c-Aa.png"
+		},
+		{
+			"name": "3c-Blink",
+			"path": "res://assets/characters/katorin/3c-Blink.png"
+		},
+		{
+			"name": "3c-Embarrassed",
+			"path": "res://assets/characters/katorin/3c-Embarrassed.png"
+		},
+		{
+			"name": "3c-Love1",
+			"path": "res://assets/characters/katorin/3c-Love1.png"
+		},
+		{
+			"name": "3c-Love2",
+			"path": "res://assets/characters/katorin/3c-Love2.png"
+		},
+		{
+			"name": "3c-Oh",
+			"path": "res://assets/characters/katorin/3c-Oh.png"
+		},
+		{
+			"name": "3c-Smile",
+			"path": "res://assets/characters/katorin/3c-Smile.png"
+		},
+		{
+			"name": "3c-Surprised",
+			"path": "res://assets/characters/katorin/3c-Surprised.png"
+		},
+		{
+			"name": "3c-default",
+			"path": "res://assets/characters/katorin/3c-default.png"
+		},
+		{
+			"name": "3d-Aa",
+			"path": "res://assets/characters/katorin/3d-Aa.png"
+		},
+		{
+			"name": "3d-Blink",
+			"path": "res://assets/characters/katorin/3d-Blink.png"
+		},
+		{
+			"name": "3d-Embarrassed",
+			"path": "res://assets/characters/katorin/3d-Embarrassed.png"
+		},
+		{
+			"name": "3d-Love1",
+			"path": "res://assets/characters/katorin/3d-Love1.png"
+		},
+		{
+			"name": "3d-Love2",
+			"path": "res://assets/characters/katorin/3d-Love2.png"
+		},
+		{
+			"name": "3d-Oh",
+			"path": "res://assets/characters/katorin/3d-Oh.png"
+		},
+		{
+			"name": "3d-Smile",
+			"path": "res://assets/characters/katorin/3d-Smile.png"
+		},
+		{
+			"name": "3d-Surprised",
+			"path": "res://assets/characters/katorin/3d-Surprised.png"
+		},
+		{
+			"name": "3d-default",
+			"path": "res://assets/characters/katorin/3d-default.png"
+		},
+		{
+			"name": "4a-Aa",
+			"path": "res://assets/characters/katorin/4a-Aa.png"
+		},
+		{
+			"name": "4a-Blink",
+			"path": "res://assets/characters/katorin/4a-Blink.png"
+		},
+		{
+			"name": "4a-Embarrassed",
+			"path": "res://assets/characters/katorin/4a-Embarrassed.png"
+		},
+		{
+			"name": "4a-Love1",
+			"path": "res://assets/characters/katorin/4a-Love1.png"
+		},
+		{
+			"name": "4a-Love2",
+			"path": "res://assets/characters/katorin/4a-Love2.png"
+		},
+		{
+			"name": "4a-Oh",
+			"path": "res://assets/characters/katorin/4a-Oh.png"
+		},
+		{
+			"name": "4a-Smile",
+			"path": "res://assets/characters/katorin/4a-Smile.png"
+		},
+		{
+			"name": "4a-Surprised",
+			"path": "res://assets/characters/katorin/4a-Surprised.png"
+		},
+		{
+			"name": "4a-default",
+			"path": "res://assets/characters/katorin/4a-default.png"
+		},
+		{
+			"name": "4b-Aa",
+			"path": "res://assets/characters/katorin/4b-Aa.png"
+		},
+		{
+			"name": "4b-Blink",
+			"path": "res://assets/characters/katorin/4b-Blink.png"
+		},
+		{
+			"name": "4b-Embarrassed",
+			"path": "res://assets/characters/katorin/4b-Embarrassed.png"
+		},
+		{
+			"name": "4b-Love1",
+			"path": "res://assets/characters/katorin/4b-Love1.png"
+		},
+		{
+			"name": "4b-Love2",
+			"path": "res://assets/characters/katorin/4b-Love2.png"
+		},
+		{
+			"name": "4b-Oh",
+			"path": "res://assets/characters/katorin/4b-Oh.png"
+		},
+		{
+			"name": "4b-Smile",
+			"path": "res://assets/characters/katorin/4b-Smile.png"
+		},
+		{
+			"name": "4b-Surprised",
+			"path": "res://assets/characters/katorin/4b-Surprised.png"
+		},
+		{
+			"name": "4b-default",
+			"path": "res://assets/characters/katorin/4b-default.png"
+		},
+		{
+			"name": "4c-Aa",
+			"path": "res://assets/characters/katorin/4c-Aa.png"
+		},
+		{
+			"name": "4c-Blink",
+			"path": "res://assets/characters/katorin/4c-Blink.png"
+		},
+		{
+			"name": "4c-Embarrassed",
+			"path": "res://assets/characters/katorin/4c-Embarrassed.png"
+		},
+		{
+			"name": "4c-Love1",
+			"path": "res://assets/characters/katorin/4c-Love1.png"
+		},
+		{
+			"name": "4c-Love2",
+			"path": "res://assets/characters/katorin/4c-Love2.png"
+		},
+		{
+			"name": "4c-Oh",
+			"path": "res://assets/characters/katorin/4c-Oh.png"
+		},
+		{
+			"name": "4c-Smile",
+			"path": "res://assets/characters/katorin/4c-Smile.png"
+		},
+		{
+			"name": "4c-Surprised",
+			"path": "res://assets/characters/katorin/4c-Surprised.png"
+		},
+		{
+			"name": "4c-default",
+			"path": "res://assets/characters/katorin/4c-default.png"
+		},
+		{
+			"name": "4d-Aa",
+			"path": "res://assets/characters/katorin/4d-Aa.png"
+		},
+		{
+			"name": "4d-Blink",
+			"path": "res://assets/characters/katorin/4d-Blink.png"
+		},
+		{
+			"name": "4d-Embarrassed",
+			"path": "res://assets/characters/katorin/4d-Embarrassed.png"
+		},
+		{
+			"name": "4d-Love1",
+			"path": "res://assets/characters/katorin/4d-Love1.png"
+		},
+		{
+			"name": "4d-Love2",
+			"path": "res://assets/characters/katorin/4d-Love2.png"
+		},
+		{
+			"name": "4d-Oh",
+			"path": "res://assets/characters/katorin/4d-Oh.png"
+		},
+		{
+			"name": "4d-Smile",
+			"path": "res://assets/characters/katorin/4d-Smile.png"
+		},
+		{
+			"name": "4d-Surprised",
+			"path": "res://assets/characters/katorin/4d-Surprised.png"
+		},
+		{
+			"name": "4d-default",
+			"path": "res://assets/characters/katorin/4d-default.png"
+		},
+		{
+			"name": "5a-Aa",
+			"path": "res://assets/characters/katorin/5a-Aa.png"
+		},
+		{
+			"name": "5a-Blink",
+			"path": "res://assets/characters/katorin/5a-Blink.png"
+		},
+		{
+			"name": "5a-Embarrassed",
+			"path": "res://assets/characters/katorin/5a-Embarrassed.png"
+		},
+		{
+			"name": "5a-Love1",
+			"path": "res://assets/characters/katorin/5a-Love1.png"
+		},
+		{
+			"name": "5a-Love2",
+			"path": "res://assets/characters/katorin/5a-Love2.png"
+		},
+		{
+			"name": "5a-Oh",
+			"path": "res://assets/characters/katorin/5a-Oh.png"
+		},
+		{
+			"name": "5a-Smile",
+			"path": "res://assets/characters/katorin/5a-Smile.png"
+		},
+		{
+			"name": "5a-Surprised",
+			"path": "res://assets/characters/katorin/5a-Surprised.png"
+		},
+		{
+			"name": "5a-default",
+			"path": "res://assets/characters/katorin/5a-default.png"
+		},
+		{
+			"name": "5b-Aa",
+			"path": "res://assets/characters/katorin/5b-Aa.png"
+		},
+		{
+			"name": "5b-Blink",
+			"path": "res://assets/characters/katorin/5b-Blink.png"
+		},
+		{
+			"name": "5b-Embarrassed",
+			"path": "res://assets/characters/katorin/5b-Embarrassed.png"
+		},
+		{
+			"name": "5b-Love1",
+			"path": "res://assets/characters/katorin/5b-Love1.png"
+		},
+		{
+			"name": "5b-Love2",
+			"path": "res://assets/characters/katorin/5b-Love2.png"
+		},
+		{
+			"name": "5b-Oh",
+			"path": "res://assets/characters/katorin/5b-Oh.png"
+		},
+		{
+			"name": "5b-Smile",
+			"path": "res://assets/characters/katorin/5b-Smile.png"
+		},
+		{
+			"name": "5b-Surprised",
+			"path": "res://assets/characters/katorin/5b-Surprised.png"
+		},
+		{
+			"name": "5b-default",
+			"path": "res://assets/characters/katorin/5b-default.png"
+		},
+		{
+			"name": "5c-Aa",
+			"path": "res://assets/characters/katorin/5c-Aa.png"
+		},
+		{
+			"name": "5c-Blink",
+			"path": "res://assets/characters/katorin/5c-Blink.png"
+		},
+		{
+			"name": "5c-Embarrassed",
+			"path": "res://assets/characters/katorin/5c-Embarrassed.png"
+		},
+		{
+			"name": "5c-Love1",
+			"path": "res://assets/characters/katorin/5c-Love1.png"
+		},
+		{
+			"name": "5c-Love2",
+			"path": "res://assets/characters/katorin/5c-Love2.png"
+		},
+		{
+			"name": "5c-Oh",
+			"path": "res://assets/characters/katorin/5c-Oh.png"
+		},
+		{
+			"name": "5c-Smile",
+			"path": "res://assets/characters/katorin/5c-Smile.png"
+		},
+		{
+			"name": "5c-Surprised",
+			"path": "res://assets/characters/katorin/5c-Surprised.png"
+		},
+		{
+			"name": "5c-default",
+			"path": "res://assets/characters/katorin/5c-default.png"
+		},
+		{
+			"name": "5d-Aa",
+			"path": "res://assets/characters/katorin/5d-Aa.png"
+		},
+		{
+			"name": "5d-Blink",
+			"path": "res://assets/characters/katorin/5d-Blink.png"
+		},
+		{
+			"name": "5d-Embarrassed",
+			"path": "res://assets/characters/katorin/5d-Embarrassed.png"
+		},
+		{
+			"name": "5d-Love1",
+			"path": "res://assets/characters/katorin/5d-Love1.png"
+		},
+		{
+			"name": "5d-Love2",
+			"path": "res://assets/characters/katorin/5d-Love2.png"
+		},
+		{
+			"name": "5d-Oh",
+			"path": "res://assets/characters/katorin/5d-Oh.png"
+		},
+		{
+			"name": "5d-Smile",
+			"path": "res://assets/characters/katorin/5d-Smile.png"
+		},
+		{
+			"name": "5d-Surprised",
+			"path": "res://assets/characters/katorin/5d-Surprised.png"
+		},
+		{
+			"name": "5d-default",
+			"path": "res://assets/characters/katorin/5d-default.png"
+		}
+	],
+	"scale": 75
 }

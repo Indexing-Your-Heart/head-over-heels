@@ -3,7 +3,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "[PlayerName], how close are you with her?"
 		},
 		{
@@ -21,13 +21,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "Hehe, yeah..."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Aa",
 			"text": "That's kind of why I just pop in here and there. She's pretty much used to it by now."
 		},
 		{
@@ -39,8 +39,14 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "So, uh, what kinds of things do you do in your spare time, then?"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "character-1634433994.json",
@@ -57,7 +63,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Surprised",
 			"text": "Hehe, yeah. I'm impressed she's still going with all of the other projects she has."
 		},
 		{
@@ -79,7 +85,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Aa",
 			"text": "Oh, definitely! She doesn't talk much about them nowadays, but she does have them."
 		},
 		{
@@ -98,17 +104,23 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "I guess she never really talked to you about them."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Embarrassed",
 			"text": "I'm not surprised; she doesn't really talk about them nowadays."
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "character-1634433994.json",
@@ -119,7 +131,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Smile",
 			"text": "Haha, I guess! Watching over a candle wasn't something your bucket list, probably."
 		},
 		{
@@ -127,6 +139,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Even I don't know at this point."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "",
@@ -153,7 +171,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Surprised",
 			"text": "Oh, [PlayerName], I hope you're joking. Do you really think anthro-candles exist?"
 		},
 		{
@@ -165,7 +183,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Aa",
 			"text": "I'm only teasing. Of course this is a costume. A rather comfy one at that!"
 		},
 		{
@@ -178,17 +196,23 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Smile",
 			"text": "Sure I am! It's almost like a sleeping bag."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "I mean, it's a bit tricky not having any arms available, but not a big deal to me."
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "character-1634433994.json",
@@ -199,7 +223,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "Well, they don't call me 'Luma' for nothing... What's inside is not that impressive."
 		},
 		{
@@ -217,25 +241,25 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Blink",
 			"text": "Thanks [PlayerName]. You're very kind."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Smile",
 			"text": "Maybe I will at some point, or unzip the stub at the very least."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "You know, [PlayerName], you're not like most people I've met."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "I actually... kind of like you."
 		},
 		{
@@ -247,7 +271,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Surprised",
 			"text": "Like, out of all the people I've met, I'd me most likely to date you."
 		},
 		{
@@ -269,13 +293,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "No no no, I didn't mean that like a proposal to date!"
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Aa",
 			"text": "That's up to you if you wanna do that."
 		},
 		{
@@ -288,7 +312,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "Well, uh, not really. Unless that's something you wanna try..."
 		},
 		{
@@ -303,13 +327,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "4a-Surprised",
 			"text": "Okay. Maybe I do want to."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "But only if you're willing to! I don't want you to feel like you don't have a choice."
 		},
 		{
@@ -327,7 +351,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "5a-Love2",
 			"text": "Well, uh, I hope you like what you'll get!"
 		},
 		{
@@ -339,13 +363,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Blink",
 			"text": "Haha! You're funny, [PlayerName]."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "Maybe if we do have something between us, you'll see more than just this costume."
 		},
 		{

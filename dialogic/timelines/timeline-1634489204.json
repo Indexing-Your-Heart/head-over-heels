@@ -46,6 +46,12 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -80,13 +86,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "A couple of towns over. I get over here by bus."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Aa",
 			"text": "It's not that bad, really."
 		},
 		{
@@ -115,13 +121,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "Uh... I'd say about five to ten years?"
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Smile",
 			"text": "I met her all the way back in Catalina City."
 		},
 		{
@@ -150,19 +156,19 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Surprised",
 			"text": "Sure we are! We've been very, very close for a while."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Smile",
 			"text": "We both lived in Catalina City for a couple of years."
 		},
 		{
-			"character": "",
+			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "I just kind of followed her when Katorin decided to move here."
 		},
 		{
@@ -191,25 +197,25 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "Depends on what you mean by 'often'."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Weekly? Not really, I don't have the time to really do that."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Oh",
 			"text": "Once every couple of months at best."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "It's also a bit dependent on Katorin's schedule."
 		},
 		{

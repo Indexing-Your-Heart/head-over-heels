@@ -62,6 +62,12 @@
 			"text": "I'd offer a handshake, but I'm afraid that I can't do so right now..."
 		},
 		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
+		},
+		{
 			"character": "character-1634433994.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -92,13 +98,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Blink",
 			"text": "Haha! It's nothing, really."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Aa",
 			"text": "This is pretty much the only way I can get around like this."
 		},
 		{
@@ -111,7 +117,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "Like this? Yeah, pretty much."
 		},
 		{
@@ -120,14 +126,20 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Aa",
 			"text": "I mean, there's one [i]other[/i] way of doing it, but then I forget to do things a certain way."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "That and it's a little embarrassing for me, but I digress."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "character-1634433994.json",
@@ -144,19 +156,19 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Surprised",
 			"text": "Well, uh, thanks for letting me stay with you for a while on such short notice!"
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Oh",
 			"text": "I really do apologize for that; Katorin's usually pretty good at staying on top of things."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Embarrassed",
 			"text": "I tell her weeks in advance when I want to visit so she could. I don't know why this time is any different."
 		},
 		{

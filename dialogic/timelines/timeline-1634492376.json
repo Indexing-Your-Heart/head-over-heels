@@ -30,6 +30,12 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -64,13 +70,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Smile",
 			"text": "Yep! I had something before I got on the bus."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Oh",
 			"text": "I try to not eat past 7PM, really. Would be, uh, hard to hop around otherwise!"
 		},
 		{
@@ -99,13 +105,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "4a-Surprised",
 			"text": "It's fine [PlayerName], really! I got myself taken care of before I left."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Blink",
 			"text": "I appreciate the gesture, though!"
 		},
 		{

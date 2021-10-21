@@ -1,3 +1,5 @@
+#!/bin/python3
+
 # This script is used to sort the character portrait names in the Dialogic character definitions. This should aid in
 # finding a specified portait without having to scane the entire list. The default pose will remain at the top, but
 # all other portraits will be sorted by the key's name.

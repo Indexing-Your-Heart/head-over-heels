@@ -30,6 +30,12 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -65,13 +71,13 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Oh",
 			"text": "Huh. The first I've heard of you was this morning when she hobbled this together."
 		},
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "She's told me of her friends and colleagues, but I don't know why she omitted you from that."
 		},
 		{
@@ -100,7 +106,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Oh",
 			"text": "Maybe. Probably one of those company policy things."
 		},
 		{
@@ -112,7 +118,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Surprised",
 			"text": "Of course! I just find it a bit weird she didn't plan this through and through like she usually does."
 		},
 		{

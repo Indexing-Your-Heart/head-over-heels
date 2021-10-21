@@ -11,7 +11,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "2a-Oh",
 			"text": "Is it alright if I take a seat over there?"
 		},
 		{
@@ -19,6 +19,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Sure."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "",
@@ -29,7 +35,7 @@
 		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Embarrassed",
 			"text": "I hope you don't mind me putting my, uh, stub on the sofa..."
 		},
 		{
@@ -37,6 +43,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I don't mind."
+		},
+		{
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_001",
+			"portrait": "1a-default",
+			"text": "[nw=0]"
 		},
 		{
 			"character": "",

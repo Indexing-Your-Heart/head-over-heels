@@ -1,3 +1,5 @@
+#!/bin/python3
+
 # This script is used to rename files in Katorin's character assets folder from the export names in
 # Mannequin so that it becomes easier to recognize which image names correspond to which expressions,
 # and which positions/clothing styles. This also makes it easier to find in Godot/Dialogic.
