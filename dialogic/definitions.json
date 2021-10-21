@@ -10,20 +10,14 @@
 			"value": "1"
 		},
 		{
+			"id": "1634434011-648",
+			"name": "PlayerName",
+			"type": 0,
+			"value": "You"
+		},
+		{
 			"id": "1634491346-648",
 			"name": "ChoiceASelect",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1634491367-146",
-			"name": "ChoiceDSelect",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1634491359-366",
-			"name": "ChoiceCSelect",
 			"type": 0,
 			"value": "0"
 		},
@@ -34,10 +28,16 @@
 			"value": "0"
 		},
 		{
-			"id": "1634434011-648",
-			"name": "PlayerName",
+			"id": "1634491359-366",
+			"name": "ChoiceCSelect",
 			"type": 0,
-			"value": "You"
+			"value": "0"
+		},
+		{
+			"id": "1634491367-146",
+			"name": "ChoiceDSelect",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

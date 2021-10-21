@@ -6,7 +6,7 @@
 		},
 		{
 			"action": "join",
-			"character": "character-1634434821.json",
+			"character": "character-1634434817.json",
 			"event_id": "dialogic_002",
 			"mirror": false,
 			"portrait": "",
@@ -19,23 +19,9 @@
 			}
 		},
 		{
-			"action": "join",
-			"character": "character-1634434817.json",
-			"event_id": "dialogic_002",
-			"mirror": false,
-			"portrait": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			}
-		},
-		{
 			"character": "character-1634434817.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Aa",
 			"text": "Hi there! You must be [PlayerName], right?"
 		},
 		{
@@ -47,7 +33,7 @@
 		{
 			"character": "character-1634434817.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "1a-Blink",
 			"text": "Yup! You can call me, uh, Luma."
 		},
 		{
@@ -56,9 +42,23 @@
 			"event_id": "dialogic_003"
 		},
 		{
+			"action": "join",
+			"character": "character-1634434821.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "1a-Blink",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			}
+		},
+		{
 			"character": "character-1634434821.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "3a-Embarrassed",
 			"text": "I'd offer a handshake, but I'm afraid that I can't do so right now..."
 		},
 		{
