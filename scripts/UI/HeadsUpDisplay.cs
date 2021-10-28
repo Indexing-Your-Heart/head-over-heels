@@ -1,7 +1,7 @@
 using Godot;
-using Katorin.RPG;
+using HeadOverHeels.RPG;
 
-namespace Katorin.UI
+namespace HeadOverHeels.UI
 {
     public class HeadsUpDisplay : Control
     {

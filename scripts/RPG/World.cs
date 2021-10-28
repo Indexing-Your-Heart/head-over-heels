@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using Godot;
-using Katorin.Extensions;
-using Katorin.UI;
+using HeadOverHeels.Extensions;
+using HeadOverHeels.UI;
 
-namespace Katorin.RPG
+namespace HeadOverHeels.RPG
 {
     public class World : Node2D
     {

@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Katorin.Interfaces;
+using HeadOverHeels.Interfaces;
 
-namespace Katorin.Utilities
+namespace HeadOverHeels.Utilities
 {
     /// <summary> A class responsible for managing multiple states of an object, presumably as updates. </summary>
     /// <remarks> Objects stored in VersionControl must be versionable, so that they can be easily identified and

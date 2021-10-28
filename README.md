@@ -1,11 +1,11 @@
-# Codename Katorin-Melrose
+# Codename "Head Over Heels"
 
 > Your colleague takes a week-long vacation, and she tasks you with taking over her work and
 > watching over friend who's visiting. The challenges begin when her friend arrives at your doorstep
 > in a candle costume, and she asks to date you. Are you able to keep up the work on your
 > colleague's projects while fostering a romantic relationship with her friend?
 
-**Codename Katorin-Melrose** is a re-implementation of _Codename Katorin_ using native Godot tools
+**Codename "Head Over Heels"** is a re-implementation of _Codename Katorin_ using native Godot tools
 à la C# and the Dialogic library. The primary objective of this project is to continue developing
 the game without worrying about smaller developer details that could be easily re-implemented with
 an addon.
@@ -32,7 +32,7 @@ dotnet CLI. Go to **Editor > Editor Settings > Mono > Builds** and change the bu
 
 ## Contributions
 
-**Codename Katorin-Melrose** includes libraries and projects under open-source licenses:
+**Codename "Head Over Heels"** includes libraries and projects under open-source licenses:
 
 - Dialogic: MIT License
 - Godot: MIT License

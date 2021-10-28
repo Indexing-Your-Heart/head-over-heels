@@ -1,7 +1,7 @@
 using System;
 using Godot;
 
-namespace Katorin.Extensions
+namespace HeadOverHeels.Extensions
 {
     public static class NodeExtensions
     {

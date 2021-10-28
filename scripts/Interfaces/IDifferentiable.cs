@@ -1,4 +1,4 @@
-namespace Katorin.Interfaces
+namespace HeadOverHeels.Interfaces
 {
     ///<summary> An interface that declares a class has values that change over time and can be described with a delta
     /// function that determines how to reach from state of a class to another. </summary>

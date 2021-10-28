@@ -1,7 +1,7 @@
 using System;
 using Godot;
 
-namespace Katorin.RPG
+namespace HeadOverHeels.RPG
 {
     /// <summary> A class that represents an enemy in the RPG world. </summary>
     public class Enemy : Entity

@@ -1,7 +1,7 @@
 using System;
 using Godot;
 
-namespace Katorin.RPG
+namespace HeadOverHeels.RPG
 {
     using ASMPlayback = AnimationNodeStateMachinePlayback;
 

@@ -1,7 +1,7 @@
 using System;
 using Godot;
 
-namespace Katorin.RPG
+namespace HeadOverHeels.RPG
 {
     /// <summary>The base class for all entities in the game, which contain health properties. </summary>
     public class Entity : KinematicBody2D

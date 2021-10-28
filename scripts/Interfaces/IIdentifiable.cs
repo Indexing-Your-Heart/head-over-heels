@@ -1,6 +1,6 @@
 using System;
 
-namespace Katorin.Interfaces
+namespace HeadOverHeels.Interfaces
 {
     /// <summary> An interface that indicates a class has a stable identity with a researchable identifier. </summary>
     /// <remarks> This interface is inspired by the Identifiable protocol in Swift:
