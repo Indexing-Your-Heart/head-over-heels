@@ -1,0 +1,20 @@
+{
+    "color": "#ffffffff",
+    "description": "The player character is a self-named male (or male-identifying) character who is a colleague and close friend of Katorin.",
+    "display_name": "You",
+    "display_name_bool": true,
+    "id": "character-1635561997.json",
+    "mirror_portraits": false,
+    "name": "Player",
+    "nickname": "",
+    "nickname_bool": false,
+    "offset_x": 0,
+    "offset_y": 0,
+    "portraits": [
+        {
+            "name": "Default",
+            "path": ""
+        }
+    ],
+    "scale": 100
+}

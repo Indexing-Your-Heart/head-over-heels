@@ -2,7 +2,6 @@
     "editor.fontFamily": "'Cascadia Code', -system-monospaced, 'SF Mono', 'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontSize": 13,
     "editor.lineHeight": 24,
-    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
     "editor.renderWhitespace": "selection",
     "[markdown]": {
         "editor.wordWrap": "on",
@@ -24,6 +23,7 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        "**/**.import": true
+        "**/**.import": true,
+        ".mono/": true
     }
 }
