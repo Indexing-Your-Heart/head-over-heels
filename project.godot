@@ -51,7 +51,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Indexing Your Heart"
-config/icon="res://icon.png"
+config/icon="res://icon_proto.png"
 
 [display]
 
