@@ -1,8 +1,7 @@
-title: Codename Katorin
+title: Indexing Your Heart
 author: Marquis Kurt
 
 collections:
   devlogs:
     output: true
     permalink: /:collection/:year/:month/:day/:title
-

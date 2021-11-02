@@ -8,7 +8,8 @@ permalink: /devlogs/
 <div class="container py-4">
     <h1>Devlogs</h1>
 </div>
-{% for post in site.devlogs %}
+{% assign posts = site.devlogs | reverse %}
+{% for post in posts %}
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-9">

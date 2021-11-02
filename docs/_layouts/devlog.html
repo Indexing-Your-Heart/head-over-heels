@@ -21,6 +21,11 @@
     </main>
 </body>
 
+<script>
+    let __blockquotes = document.getElementsByTagName("blockquote");
+    for (const elem of __blockquotes) { elem.className += "blockquote"; }
+</script>
+
 {% include footer.html %}
 {% include scripts.html %}
 

@@ -7,16 +7,16 @@ permalink: /private-access/
 
 # Private Access Builds
 
-**Codename Katorin** is currently still in development, so access is limited to a private
+**Indexing Your Heart** is currently still in development, so access is limited to a private
 access group, which includes supports on [Ko-fi](https://ko-fi.com/marquiskurt),
-[GitHub Sponsors](https://github.com/alicerunsonfedora), and 
+[GitHub Sponsors](https://github.com/alicerunsonfedora), and
 [Patreon](https://patreon.com/marquiskurt).
 
 ## How can I get access to the builds?
 
-At present, **Codename Katorin** is very early in development and has no private access
+At present, **Indexing Your Heart** is very early in development and has no private access
 builds available. In the future, if you are not a supporter, you will be able to register
-for a mailing list that includes links to the builds as well as the developer logs for 
+for a mailing list that includes links to the builds as well as the developer logs for
 each build.
 
 <div class="alert alert-warning my-4" role="alert">
@@ -28,7 +28,7 @@ each build.
         Early private access disclaimer
     </h4>
   <p>
-    <b>Codename Katorin</b> early access builds are pre-release software. Features and
+    <b>Indexing Your Heart</b> early access builds are pre-release software. Features and
     gameplay will change over time; these builds are not representative of the final
     public release. {{ site.author }} and contributors shall not be held liable for any
     damages done, software or hardware-wise, to your device given this notice.
