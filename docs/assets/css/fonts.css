@@ -1,3 +1,14 @@
+/* 
+  Salmon Font Family Stylesheet
+  (C) 2021 Phildjii and Marquis Kurt.
+
+  The fonts provided in this CSS file are subject to the licensing agreement attached
+  with the fonts. It is forbidden to link this CSS stylesheet in your own materials
+  without explicit written permission from the font authors and Marquis Kurt.
+  
+  TL;DR - DO NOT YOINKETH THE FONTS.
+*/
+
 @font-face {
   font-family: "Salmon Sans";
   src: url("./fonts/Salmon Sans 9 Regular.ttf");
