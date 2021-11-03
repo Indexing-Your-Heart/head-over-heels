@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Salmon Sans";
+  src: url("./fonts/Salmon Sans 9 Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Salmon Sans";
+  src: url("./fonts/Salmon Sans 9 Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Salmon Serif";
+  src: url("./fonts/Salmon Serif 9 Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Salmon Serif";
+  src: url("./fonts/Salmon Serif 9 Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Salmon Mono";
+  src: url("./fonts/Salmon Mono 9 Regular.ttf");
+  font-weight: normal;
+}

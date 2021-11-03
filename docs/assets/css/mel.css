@@ -1,8 +1,48 @@
-pre.highlight {
-    padding: 16px;
+:root {
+  font-size: 18px;
+  --bs-primary: #0da382;
+  --bs-primary-border: #267564;
+  --tff-serif: "Salmon Serif", "New York", "Liberation Serif", "Gerogia",
+    "Times", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
+  --bs-font-sans-serif: "Salmon Sans", system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-monospace: "Salmon Mono", "JetBrains Mono", ui-monospace,
+    SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace;
 }
 
+html,
+body {
+  font-family: var(--tff-serif);
+}
 
-div.highlight, pre, code {
-    font-family: 'JetBrains Mono', ui-monospace, Menlo, Monaco, 'Courier New', Courier, monospace;
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary-border);
+}
+
+pre.highlight {
+  padding: 16px;
+}
+
+h1,
+h2,
+h3,
+.h1,
+.h2,
+.h3 {
+  font-family: var(--bs-font-sans-serif);
+  font-weight: bold;
+}
+
+h4,
+h5,
+h6,
+.h4,
+.h5,
+.h6 {
+  font-family: var(--bs-font-sans-serif);
+  font-weight: normal;
 }
