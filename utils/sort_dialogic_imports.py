@@ -1,5 +1,16 @@
 #!/bin/python3
 
+# sort_dialogic_imports.py
+# Copyright (C) 2021 Marquis Kurt <software@marquiskurt.net>
+# This file is part of Indexing Your Heart.
+#
+# Indexing Your Heart is non-violent software: you can use, redistribute, and/or modify it under the terms of the
+# CNPLv7+ as found in the LICENSE file in the source code root directory or at
+# <https://git.pixie.town/thufie/npl-builder>.
+#
+# Indexing Your Heart comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law. See the CNPL for
+# details.
+
 # This script is used to sort the character portrait names in the Dialogic character definitions. This should aid in
 # finding a specified portait without having to scane the entire list. The default pose will remain at the top, but
 # all other portraits will be sorted by the key's name.
