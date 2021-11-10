@@ -16,6 +16,10 @@
                         aria-current="page" {% endif %} href="{{ site.baseurl }}/">Home</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link {% if page.id=='roadmap' %} active {% endif %}" {% if page.id=='roadmap' %}
+                        aria-current="page" {% endif %} href="{{ site.baseurl }}/roadmap/">Roadmap</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link {% if page.id=='beta' %} active {% endif %}" {% if page.id=='beta' %}
                         aria-current="page" {% endif %} href="{{ site.baseurl }}/private-access/">Private Access</a>
                 </li>
