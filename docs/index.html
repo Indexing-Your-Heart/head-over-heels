@@ -1,13 +1,14 @@
 ---
 id: home
-layout: default
+layout: navbarless
 title: Homepage
 ---
-<div class="bg-dark text-light py-4">
+<div class="bg-dark bg-banner text-light">
+    {% include navbar.html transparent=true%}
     <div class="container py-4">
-        <div class="row">
+        <div class="row py-4">
             <div class="col-sm-12 col-lg-7" style="z-index: 2;">
-                <h1>&#x1F528;Index your heart and build relationships</h1>
+                <h1>Index your heart and build relationships</h1>
                 <p class="lead">
                     After the successful launch of a product and a celebration at your local bar, a mysterious figure
                     in a hammer costume appears at your door with a note, asking for a date. Are you ready to take on a
@@ -21,12 +22,30 @@ title: Homepage
             </div>
             <div class="col-sm-12 col-lg-5 d-none d-lg-block text-center"
                 style="scale: 1.175; z-index: 0; overflow: hidden;">
-                <img class="image-fluid float-right" src="/assets/images/hammer.png" alt="Image"
-                    style="image-rendering: crisp-edges;">
+                <img class="image-fluid float-right hammer-roslyn" src="/assets/images/hammer_side.png" alt="Image">
             </div>
         </div>
     </div>
 </div>
+<style>
+    .bg-banner {
+        background-image: url("/assets/images/abstracts/banner.webp");
+        background-size: cover;
+    }
+
+    .bg-banner {
+        text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+    }
+
+    .bg-banner a.btn {
+        text-shadow: none !important;
+    }
+
+    .hammer-roslyn {
+        image-rendering: crisp-edges;
+        transform: scaleX(-1);
+    }
+</style>
 <div class="py-4">
     <div class="container">
         <div class="row">
