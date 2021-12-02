@@ -27,6 +27,19 @@ To facilitate the build process for Apple Silicon Macs, the SDK build should be 
 dotnet CLI. Go to **Editor > Editor Settings > Mono > Builds** and change the build tool to
 **dotnet CLI**. Godot will now build the project using the .NET SDK instead of Mono.
 
+## Found an issue?
+
+If you've found a bug or want to submit feedback to the project, it is encouraged that you submit a
+report on our bug reporter on YouTrack. For sensitive information or security vulnerability reports,
+email hello at indexingyourhe.art directly.
+
+[File a bug report on YouTrack &rsaquo][youtrack]
+
+## Licensing
+
+This project is licensed under the Cooperative Non-Violent Public License, v7 or later. You can
+learn more about what your rights are by reading the [LICENSE.md](./LICENSE.md) file in full.
+
 ## Contributions
 
 **Indexing Your Heart (Codename "Head Over Heels")** includes libraries and projects under
@@ -35,3 +48,7 @@ open-source licenses:
 - Dialogic: MIT License
 - Godot: MIT License
 - .NET Core: MIT License
+
+You can also view the full list of contributors in the [CONTRIBUTORS.md](./CONTRIBUTORS.md) file.
+
+[youtrack]: https://youtrack.marquiskurt.net/youtrack/projects/a26473ae-6133-4a9a-98bb-e230ba982f25
