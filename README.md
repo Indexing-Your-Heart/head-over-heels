@@ -33,7 +33,7 @@ If you've found a bug or want to submit feedback to the project, it is encourage
 report on our bug reporter on YouTrack. For sensitive information or security vulnerability reports,
 email hello at indexingyourhe.art directly.
 
-[File a bug report on YouTrack &rsaquo][youtrack]
+[File a bug report on YouTrack &rsaquo;][youtrack]
 
 ## Licensing
 
@@ -51,4 +51,4 @@ open-source licenses:
 
 You can also view the full list of contributors in the [CONTRIBUTORS.md](./CONTRIBUTORS.md) file.
 
-[youtrack]: https://youtrack.marquiskurt.net/youtrack/projects/a26473ae-6133-4a9a-98bb-e230ba982f25
+[youtrack]: https://youtrack.marquiskurt.net/youtrack/newIssue?project=HOH
