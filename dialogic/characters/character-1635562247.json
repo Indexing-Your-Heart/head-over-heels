@@ -1,20 +1,20 @@
 {
-    "color": "#ff4d9bf6",
-    "description": "See: Chelsea",
-    "display_name": "",
-    "display_name_bool": false,
-    "id": "character-1635562247.json",
-    "mirror_portraits": false,
-    "name": "The Hammer",
-    "nickname": "",
-    "nickname_bool": false,
-    "offset_x": 0,
-    "offset_y": 0,
-    "portraits": [
-        {
-            "name": "Default",
-            "path": ""
-        }
-    ],
-    "scale": 100
+	"color": "#ff4df6d4",
+	"description": "See: Chelsea",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1635562247.json",
+	"mirror_portraits": false,
+	"name": "The Hammer",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100
 }

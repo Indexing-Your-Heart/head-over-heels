@@ -1,20 +1,20 @@
 {
-    "color": "#ff792fd4",
-    "description": "Katorin Trenda is the player's colleague and close friend. Katorin is a well-recognized engineer at ArcAI given her hard work and dedication to the machine learning models and artificial intelligence algorithms that power the majority of the company's products and services.",
-    "display_name": "",
-    "display_name_bool": false,
-    "id": "character-1635562009.json",
-    "mirror_portraits": false,
-    "name": "Katorin",
-    "nickname": "",
-    "nickname_bool": false,
-    "offset_x": 0,
-    "offset_y": 0,
-    "portraits": [
-        {
-            "name": "Default",
-            "path": ""
-        }
-    ],
-    "scale": 100
+	"color": "#ff792fd4",
+	"description": "Katorin Trenda is the player's colleague and close friend. Katorin is a well-recognized engineer at ArcAI given her hard work and dedication to the machine learning models and artificial intelligence algorithms that power the majority of the company's products and services.",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1635562009.json",
+	"mirror_portraits": false,
+	"name": "Katorin",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100
 }

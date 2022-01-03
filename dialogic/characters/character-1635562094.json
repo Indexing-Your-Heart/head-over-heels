@@ -1,20 +1,20 @@
 {
-    "color": "#ff4d9bf6",
-    "description": "Chelsea, a transgender anthro-coyote in their early thirties, is the lead signer and guitarist for The Serif, a band that Katorin has close ties with both as a fan and as a friend.",
-    "display_name": "",
-    "display_name_bool": false,
-    "id": "character-1635562094.json",
-    "mirror_portraits": false,
-    "name": "Chelsea",
-    "nickname": "",
-    "nickname_bool": false,
-    "offset_x": 0,
-    "offset_y": 0,
-    "portraits": [
-        {
-            "name": "Default",
-            "path": ""
-        }
-    ],
-    "scale": 100
+	"color": "#ff4df6d4",
+	"description": "Chelsea, a transgender anthro-coyote in their early thirties, is the lead signer and guitarist for The Serif, a band that Katorin has close ties with both as a fan and as a friend.",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1635562094.json",
+	"mirror_portraits": false,
+	"name": "Chelsea",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100
 }

@@ -1,0 +1,187 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 3
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I moan as I wake up from the couch."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I barely remember Ben and Jordan driving me back home, and me downing a bottle of water before crashing on the couch."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll be there!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take a sip from the second bottle of water I had on the coffee table and make my way over to the door."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Upon opening it, I soon discover a tall... hammer?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]I'm not dreaming or hallucinating this, right?[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I shake my head to try and wake up, to some success. [i]Nope, this is real.[i/]"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I... have so many questions..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I won't be long, I promise. I'm just here to hand-deliver mail."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The voice sounds somewhat familiar, but I can't put my finger on it."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So you must be the friend that Katorin was talking about, then."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That would be correct. Here, maybe this will give you some answers."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer hands me a small envelope."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... you couldn't just mail this?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I, uh, didn't want to pay for postage..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You should get some rest. My apologies for not formally introducing myself, but I should get going."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait, what if this piece of mail doesn't answer my questions?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It'll at least give you a head start, I'm sure of it. Goodnight."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer walks away."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I barely catch a glimpse of the full figure, only noticing a small portion of her teal-colored shoes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I sigh, close the door, and walk back to the couch."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Taking a seat and opening the envelope, I notice a small letter."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have nothing better to do, so I'd might as well just read this."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]... what?[/i] This practically answered nothing."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who is this person? Why do they want to date me? Why did they decide to wear a hammer costume?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I sigh and lay down on the couch. Maybe I'm just overthinking this a little."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She did say that she knows Katorin, and that Katorin has talked to her about me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'd might as well give it a shot. Reaching for my phone, I decide to text the number on the letter and accept."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's probably a lot that could go wrong, but I'm hoping for the best with this."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641214076.json",
+		"name": "scpt00b"
+	}
+}

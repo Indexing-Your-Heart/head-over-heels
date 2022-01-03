@@ -3,4 +3,4 @@
 [ext_resource path="res://addons/dialogic/Dialog.tscn" type="PackedScene" id=1]
 
 [node name="Dialog" instance=ExtResource( 1 )]
-timeline = "timeline-1634434186.json"
+timeline = "timeline-1641208170.json"

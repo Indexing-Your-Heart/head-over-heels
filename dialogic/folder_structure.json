@@ -10,7 +10,9 @@
 				"character-1635562041.json",
 				"character-1635562087.json",
 				"character-1635562094.json",
-				"character-1635562247.json"
+				"character-1635562247.json",
+				"character-1641209598.json",
+				"character-1641214293.json"
 			],
 			"folders": {
 
@@ -51,32 +53,11 @@
 		},
 		"Timelines": {
 			"files": [
-
+				"timeline-1641208170.json",
+				"timeline-1641214076.json"
 			],
 			"folders": {
-				"Chapter One": {
-					"files": [
 
-					],
-					"folders": {
-						"Dialog Choices": {
-							"files": [
-
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": false
-							}
-						}
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				}
 			},
 			"metadata": {
 				"color": null,
