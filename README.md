@@ -11,7 +11,7 @@ an addon.
 > intended. If you'd like to support the project,
 > [consider supporting the developers on Ko-fi][kofi].
 
-[kofi]: "https://ko-fi.com/marquiskurt"
+[kofi]: https://ko-fi.com/marquiskurt
 
 ## Getting started: Build from source
 
