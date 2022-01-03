@@ -8,7 +8,10 @@ the game without worrying about smaller developer details that could be easily r
 an addon.
 
 > :warning: This project is still in its infancy, so some details and mechanics may not work as
-> intended.
+> intended. If you'd like to support the project,
+> [consider supporting the developers on Ko-fi][kofi].
+
+[kofi]: "https://ko-fi.com/marquiskurt"
 
 ## Getting started: Build from source
 
