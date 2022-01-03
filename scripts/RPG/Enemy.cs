@@ -21,6 +21,14 @@ namespace HeadOverHeels.RPG
         /// <summary> The path to the player in the scene tree, relative to the enemy. </summary>
         [Export]
         public NodePath PlayerObject = null;
+
+        /// <summary> The amount that the enemy regenerates by after every tick in the game lifecycle. </summary>
+        [Export]
+        public double RegenRate = 0.01;
+
+        /// <summary> The modifier that will be appled when attacking the player. </summary>
+        [Export]
+        public double DamageModifier = 1.0;
         private Player _target;
 
         public override void _Ready()
@@ -31,6 +39,7 @@ namespace HeadOverHeels.RPG
         }
 
         /// <summary> Attacks the player with a specified amount of damage. </summary>
+        /// <remarks> The damage amount is determined by their health and damage modifiers. </remarks>
         public void Attack()
         {
             if (_target == null)
@@ -38,9 +47,13 @@ namespace HeadOverHeels.RPG
                 GD.PushWarning("Target was not initialized or the path was null.");
                 return;
             }
-            // FIXME: Perhaps this should have more consideration besides the health factor alone?
-            Double weakPoint = Health / DefaultHealth;
-            _target.Damage(5 - (5 * weakPoint));
+            var naturalAttack = 5 - (5 * (Health / DefaultHealth));
+            _target.Damage(naturalAttack + DamageModifier);
+        }
+
+        public override void _Process(float delta)
+        {
+            Heal(RegenRate / delta);
         }
     }
 }

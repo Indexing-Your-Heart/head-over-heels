@@ -48,6 +48,15 @@ namespace HeadOverHeels.RPG
             if (_health == 0)
                 EmitSignal(nameof(EntityDied));
         }
+
+        /// <summary> Heal the entity's health by a given amount. </summary>
+        /// <param name="amount"> The amount to heal the entity by. </param>
+        public void Heal(double amount)
+        {
+            _health += amount;
+            if (_health > 100)
+                _health = 100;
+        }
     }
 
 }

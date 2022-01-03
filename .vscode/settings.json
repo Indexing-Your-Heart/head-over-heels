@@ -1,7 +1,7 @@
 {
-    "editor.fontFamily": "'Cascadia Code', -system-monospaced, 'SF Mono', 'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
+    // "editor.fontFamily": "'Cascadia Code', -system-monospaced, 'SF Mono', 'SFMono-Regular', Menlo, Monaco, 'Courier New', monospace",
     "workbench.colorTheme": "Rider Dark",
-    "editor.fontSize": 13,
+    "editor.fontSize": 11,
     "editor.lineHeight": 24,
     "editor.renderWhitespace": "selection",
     "[markdown]": {

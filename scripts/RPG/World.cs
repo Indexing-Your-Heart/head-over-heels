@@ -1,5 +1,5 @@
 // World.cs
-// Copyright (C) 2021 Marquis Kurt <software@marquiskurt.net>
+// Copyright (C) 2022 Marquis Kurt <software@marquiskurt.net>
 // This file is part of Indexing Your Heart.
 //
 // Indexing Your Heart is non-violent software: you can use, redistribute, and/or modify it under the terms of the
@@ -43,7 +43,7 @@ namespace HeadOverHeels.RPG
         public Enemy ClosestEnemyToPlayerOrNull()
         {
             Enemy closest = null;
-            Double minDistance = Double.PositiveInfinity;
+            var minDistance = double.PositiveInfinity;
             foreach (Enemy enemy in _enemies)
             {
                 if (enemy.Position.DistanceTo(_player.Position) >= minDistance)

@@ -1,7 +1,7 @@
 #!/bin/python3
 
 # sort_dialogic_imports.py
-# Copyright (C) 2021 Marquis Kurt <software@marquiskurt.net>
+# Copyright (C) 2022 Marquis Kurt <software@marquiskurt.net>
 # This file is part of Indexing Your Heart.
 #
 # Indexing Your Heart is non-violent software: you can use, redistribute, and/or modify it under the terms of the

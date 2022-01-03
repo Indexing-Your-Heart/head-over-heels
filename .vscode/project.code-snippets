@@ -6,7 +6,7 @@
         ],
         "body": [
             "$LINE_COMMENT ${TM_FILENAME}",
-            "$LINE_COMMENT Copyright (C) 2021 Marquis Kurt <software@marquiskurt.net>",
+            "$LINE_COMMENT Copyright (C) ${CURRENT_YEAR} Marquis Kurt <software@marquiskurt.net>",
             "$LINE_COMMENT This file is part of Indexing Your Heart.",
             "$LINE_COMMENT",
             "$LINE_COMMENT Indexing Your Heart is non-violent software: you can use, redistribute, and/or modify it under the terms of the",
