@@ -1,13 +1,13 @@
 {
-	"color": "#ff4df6d4",
+	"color": "#ff0da382",
 	"description": "",
 	"display_name": "Marty",
-	"display_name_bool": true,
+	"display_name_bool": false,
 	"id": "character-1641214293.json",
 	"mirror_portraits": false,
 	"name": "Marteau",
-	"nickname": "",
-	"nickname_bool": false,
+	"nickname": "Marty",
+	"nickname_bool": true,
 	"offset_x": 0,
 	"offset_y": 0,
 	"portraits": [

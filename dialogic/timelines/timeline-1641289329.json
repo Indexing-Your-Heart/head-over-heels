@@ -1,0 +1,1423 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't believe it's nearly been a week since I last received the letter from that... hammer and agreed on a first date at Le Papillon's Pâtisserie."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is all so surreal; I can't believe anything that's happening right now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not completely nervous because I've gone on dates before. But there's this feeling of doubt."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I check the time on my watch: 5:39 PM. It's only just a couple of minutes before the hammer shows up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take a seat on a bench nearby and look off to the distance."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A lot of cars drive down the road to the waterfront."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's not unusual for a Friday night, but it's interesting to watch."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A few minutes pass, and I eventually see the hammer walking down the sidewalk, looking around."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They eventually spot me on the bench; that is, it appears that way, given the head tilting backwards."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I get up and walk over to them at the entrance of the pastry shop."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What should I say?"
+		},
+		{
+			"choice": "\"I didn't think you'd wear the hammer costume again.\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I, uh, like to keep things consistent, I guess."
+		},
+		{
+			"choice": "\"You're the same person that knocked on my door last week, right?\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yup, that would be me!"
+		},
+		{
+			"choice": "\"You look like you're ready to build something.\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haha! I'll take that as a compliment."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's good to see that you don't look plastered like the last time."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank goodness. The drink Katorin bought me was strong."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I heard."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer lightly giggles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "\"Are we heading to a costume party?\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no, not at all! I'm sorry if I confused you."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just like wearing this one a lot."
+		},
+		{
+			"choice": "\"Do you want to head inside?\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'd love to so I can grab some pastries for my father."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But maybe a bit later. I don't want them to get particularly stale."
+		},
+		{
+			"choice": "\"Where are we headed?\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I, uh, didn't really plan this far..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sorry if I disappointed you in not having prepared anything."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Umm... how about we head down to the waterfront?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine by me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two of us start sauntering down the road, and I manage to get a side profile of the costume."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " They must've spent hours designing the helmet and getting the circumference of the dress piece just right."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your costume is extremely detailed. May I ask who made it?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, that would be me! And thanks."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You did?"
+		},
+		{
+			"choice": "\"You have quite some artistic talent.\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's... a first I've heard from someone."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A first?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not a lot of people really appreciate the blood, sweat, and tears I pour into these things..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's complicated."
+		},
+		{
+			"choice": "\"It looks cute on you, or whatever I can see on you.\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer giggles."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you think hammers are cute, then."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I can tell you spend a lot of time making a costume that fits you."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I try. Not a lot people really see that, though..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not really sure if that's a good topic for a first date, though."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, fair enough."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Say, will I get to see what you look like without the costume?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe. I guess that depends on how long this lasts."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, then. Keep your secrets."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer giggles again. We turn on Sun Valley Road in the general direction of my apartment."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The waterfront's nice this evening. I don't really get to see it often."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? I'm surprised. I nearly see this every day."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, you live on the waterfront?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yup, over there."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I point to my apartment building."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, that's nice!"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You get to see the waves crash onto the beach all the time."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm a little jealous, hehe..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's nice to see the view from out the window."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Ah, now you got to rub it in my face, you!"
+		},
+		{
+			"choice": "\"You can see it from my apartment sometime soon.\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I guess that's true..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But still, no need to rub it in..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer pokes my chest jokingly."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, my apologies if I'm being too problematic."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha, it's fine. I'm just teasing."
+		},
+		{
+			"choice": "\"Why haven't you moved down to the waterfront?\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's kind of a long story, but I just haven't found an affordable place."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It kinda sucks being on the other side of the city, but it has its benefits, too, I suppose..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Other side of town?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, yeah, just off of Collins."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wow, that far out..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's not too far from where my father lived."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just more convenient to go around the block than across town."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But my father's moved to somewhere else now, so there's no real reason to be where I am."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sure I'll get over here someday!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you really enjoy the water."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's funny, really. My friends always think I'd [i]hate[/i] being anywhere near water."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why's that?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eh, long story."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We stop for a brief moment, near Sun Valley Café."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I usually swing by there every morning to grab some coffee on the go. Thankfully, it's on the way to work."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You want to head into the café?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah! I, uh, I'm not sure..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is coffee not your thing, or... ?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no, no, it's nothing like that! I actually don't mind a good cup."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's just, uh..., it'd be a little tricky for me to... enjoy it..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're really insistent on wearing that costume the entire time, aren't you?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ehehe... maybe..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't need to drink anything if you don't want to."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about we do that next time? I promise I'll have a solution by then!"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Umm… What do you mean?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll make some alterations."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Isn't that overengineering the solution? You could just take off your helmet."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, yeah, but..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not going to get anywhere with this hammer at this rate, it seems."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're insistent on this whole anonymity scheme."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sorry for pushing it. I get it, if you're trying to go for one of those blind date kind experiences."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What? Oh, it's nothing like that, it's just..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is kind of the first time I've really gotten this far in a relationship."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just don't wanna screw it up."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh. So you're saying this whole costume thing is the result of that?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, yeah..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, you didn't have to go through all this trouble. You already did the hard work of even just asking me out."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I feel like we've settled it as is. But if you want to keep the anonymity for now, I don't mind."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just don't want you to get the impression that taking off your helmet is going to turn this around all of a sudden."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ehe, but that's the thing... I know it will."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But thanks for at least understanding."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's just skip the café, then. I guess we can just head up to my place."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, are you sure about that?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whoa, nothing like that! I could take you somewhere else, but it'd be dark by the time we get there."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And besides, I can't think of any place to take you."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's fair, I suppose. Sorry for being so stubborn."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two of us keep walking until we reach the intersection between Sun Valley Road and Federighi Avenue."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After turning the bend and walking up to the entrance, I guide the hammer through the complex all the way to my apartment."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I open the door and hold it open to let the hammer pass through."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wow, this is really tidy!"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I try."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I close the door as I walk into my apartment."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How much did the furniture cost?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, umm... I don't remember. I got it about five, maybe ten, years ago."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's a furniture store in the area. I think it's by the dealership on Narock Boulevard."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Down there? Huh, I haven't seen it in the time I've been down there."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess they might've closed, then."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's a shame. I would've loved to get something like this."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So clean and modern... my place looks like it came out of the 1800s."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't complain, though. I got the furniture with the place."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can't really beat that, I guess. Here, take a seat."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I gesture to the couch as I stand near the armchair."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While I take a seat in the armchair, the hammer walks over to the couch, takes their shoes off, and sits on the couch, legs up and tucked away."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The cushions feel really nice."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. Sometimes more comfortable than my bed."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mine at home is a little flat. I guess it's so old that they've flattened over time."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't really help my-, uh, behind."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't need to filter yourself."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha, it's a little more complicated than that."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, if you say so."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer adjusts themselves a little."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, uh, [PlayerName]... did you have a good time last week?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eh? What kind of question is that?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, last time I saw you, you looked like you were completely slammed."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, that. Well, I didn't expect Katorin to give me a drink that strong."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not much of a drinker, really. But I enjoyed the show."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I guess Katorin got her round of excitement from introducing me to the band."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, you got to meet the band! That must've been nice."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It kind of was. Maybe not while being drunk, but still..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oddly enough, the lead singer left early. Apparently they had some matters to tend to."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I sure got the shock of my life, though. I had thought they made an intricate costume."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What kind of costume?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I thought the band decided to wear animal themed costumes for the night."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then one of the band members told me that the lead singer..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I lightly chuckle."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What about the lead singer?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're an anthro. I almost forgot that a few live around here in New Rollinsport."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like, I have a few colleagues on the marketing team. They make some mean chili."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not once did I even question their origin."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Man, I was really plastered that night..."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, well, you can't blame yourself for that."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sure the regulars would think the same."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They were cute, though. That is, the lead singer, not my colleagues."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hammer giggles."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know what you mean."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, at least you had a fun night."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'd better have! We were celebrating the release of Project Snowflake."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, was that the building classifier thingy Katorin was working on?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, that one."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That must've taken a lot of work."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. Couldn't be prouder of my colleagues. We knocked it out of the park."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not even a single hotfix we had to deploy. Pretty rare for my job."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wow, uh, that must've been a relief."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It kept me on edge for a while."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha, I know that feeling a little too well."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... you do?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's a long story."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You gotta start telling me these long stories someday, uh..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, I can't remember if you told me your name."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh! Uh..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Calling you 'the hammer' seems a little on the nose."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you still want to remain somewhat anonymous."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about you call me 'Marteau' for now, at least until we get a little further into this relationship of ours?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marteau? What kind of name is that?"
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's the name of my character in a campaign for this tabletop game I've been playing with my friends for a few weeks now."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Umm, sure, [i]Marteau[/i]..."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Look, my character's an inventor, alright?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... what does your name have to do with that?"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's, uh, French for hammer..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know what? I can get behind that. Seems very fitting for you."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I might call you Marty, then, on occasion. I'm not the best with French."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's fine. My friends do during sessions, anyway."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Man, it's been a while I've been in a campaign. Been waiting for Katorin to DM again, and it's been taking a while."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, Katorin's great! She's pretty creative."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've had a campaign with her?"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course!"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... have we met before, and I'm just not aware of it?"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, not at all."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh. I thought we might've ended up playing together."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry. Maybe we will if she finishes doing all the prep work for the homebrew one she's been wanting to do for a while."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, maybe we will."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marteau adjusts themselves, going into an almost laying position."
+		},
+		{
+			"character": "character-1635562247.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, man, I could sleep on this thing..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I sometimes do. I won't be surprised if you doze off."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, I'll try not to! I have to still be awake for later."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I still want to swing by that pastry shop before they close."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm, you know, I should probably get going."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marteau gets up from the couch and puts their shoes back on. I walk over to them as they stand up."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, uh, thanks for the first date! I hope I didn't disappoint."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nah, you're fine, Marty. You want to do this again next week?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They come closer and brace for a hug. Their head rests on my shoulder."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'd love to. And I'll promise to figure something out, so we can head to that café."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sounds good to me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We hold the hug for a few seconds before Marteau breaks away."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, off I go. See you later, [PlayerName]."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "See ya, Marty."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marteau starts to walk out the door before I interrupt."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, I wanted to say this the last time, but you ran off so quickly..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marteau turns around."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I like the color of your shoes. It fits well with your personality."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They briefly look down at their shoes and look back at me."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, thanks! Teal's my favorite color."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marteau waves and closes the door. I lean back in the armchair and look out the window."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're... definitely interesting. I'll have to see how the next date goes."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641289329.json",
+		"name": "scpt01"
+	}
+}
