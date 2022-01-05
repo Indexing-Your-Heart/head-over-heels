@@ -20,6 +20,10 @@ an addon.
 - Godot 3.4 (Mono) or later
 - .NET SDK 6 or later
 
+**Optional Tools**
+
+- Salmon 9 font family
+
 Start by cloning the repository with `gh repo clone` and then open the project in Godot. Click
 "Build" to build the solution and then click the Play button to run the game from within the Godot
 editor.
@@ -29,6 +33,22 @@ editor.
 To facilitate the build process for Apple Silicon Macs, the SDK build should be set to use the
 dotnet CLI. Go to **Editor > Editor Settings > Mono > Builds** and change the build tool to
 **dotnet CLI**. Godot will now build the project using the .NET SDK instead of Mono.
+
+### Using Salmon 9 Fonts
+
+By default, this project does _not_ include the Salmon 9 font family per its license agreement.
+Instead, great open-source equivalents are provided so that the project builds and renders
+correctly.
+
+If you have purchased the Salmon 9 font family and want to use those fonts in the game, replace the
+following files with the corresponding family variants:
+
+- **Monospace** (`assets/fonts/mono.ttf`): Salmon Mono 9 Regular
+- **Sans-serif** (`/assets/fonts/sans.ttf`): Salmon Sans 9 Regular
+- **Serif** (`/assets/fonts/serif.ttf`): Salmon Serif 9 Regular
+
+If you have not purchased the font and would like to do so, you can find the font on Phildjii's page
+on Itch.io at https://phildjii.itch.io/salmon-family.
 
 ## Found an issue?
 
