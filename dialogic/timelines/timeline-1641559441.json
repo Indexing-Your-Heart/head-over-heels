@@ -1,0 +1,1599 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Friday has rolled around, yet I haven't heard from Marty."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I've texted once or twice to check in, but they've remained silent."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Where should I meet them, if they've decided already?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hope they're doing alright... Maybe I'll run into them as I head to Sun Valley Café."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I grab my keys and head out the door."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As I approach the café, I bump into someone obliviously. I step back and apologize, realizing that I had bumped into Katorin."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[PlayerName], hey!"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm terribly sorry; I didn't notice you."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha, it's fine."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you alright?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From the bumping? Yeah, I'm fine."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know that tone; she's worried about something."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You seem worried about something else."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin sighs."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't hide anything from you, can I?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've done it before."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I guess I'm now obligated to tell you."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's move to the side."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin and I sit down at a nearby bench."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, you remember Chelsea, right?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The anthro-coyote, right?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. I haven't heard from her at all this week."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you two text often?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course. We send each other memes."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh. And she hasn't corresponded with you?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not a word from her since last Sunday."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Which is really weird, because she's been really chipper the past month or so."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really, [PlayerName]. And now she hasn't responded to my texts."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's like she disappeared off of the face of the earth."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I really hope she's alright. This is really unusual for her."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you have any ideas on what could've happened?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin rubs her face, trying to keep calm."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It could be anything, [PlayerName]. Anything."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't know what it could be."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did she say anything to you before disappearing?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, not really. Not unless you count this meme."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She pulls out her phone and shows me the latest message she sent me. I stifle my laughter."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh, nothing. That's really weird. Do you want me to help look for her?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aren't you supposed to be on a date right now?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That can wait. Besides, they haven't texted me back in a week."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin gives me a rather confused look as soon as we get up from the bench."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look really confused."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-it's nothing. Just a silly thought."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have you tried swinging by her place?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I rarely go there. She lives on the other side of the city."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's not too bad from where you live, really."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, no, but she's near the intersection between Bouchard and Collins."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't like going there."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Last I checked, there wasn't anything spooky going over there."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Our best bet would be to check over at her place."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, let's do that."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll follow you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin and I rush down to Federighi Avenue, make a turn, and keep running until we reach Collins Highway."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Though a blur, I glance at Kellihim Park to see if either Chelsea or Marty were there."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn't notice either one of them, though."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We turn on to Collins Highway and keep running up the road until we make it to a Victorian-style house."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As we slow down, Katorin takes a moment to catch her breath."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn't think we'd be running over here."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Believe me, I didn't want the panic to set in."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We make our way up to the house. I notice that, despite the structure being rather ancient, it looked well-maintained."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin knocks on the door with the knocker."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea owns this place?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She's renting for now."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wow. She does an excellent job with the upkeep."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We stand on the porch for a couple of minutes. No response."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is she even home?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin steps off the porch and investigates the property. I wonder if Chelsea simply didn't hear the door."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I step up, grab the knocker, and knock on the door with more force than Katorin."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin jolts and turns around."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you trying to break the door?!"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe she didn't hear you the first time."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And what if she's not home?"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Relax. The door's not going to shatter into two."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As I finish the sentence, the door opens behind me. I notice Chelsea leaning on the door with messy hair and watery eyes."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea! Oh my God, are you alright?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea sniffles and falls into Katorin's arms as Katorin braces for a hug. She whimpers while trying to get back up."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I've been worried sick about you! What happened?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-it's a long story."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea stammers and struggles to get her words out."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come. Let's get you back inside."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin hoists Chelsea back up and guides her inside. I follow the two into the house and close the door behind us."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The living room feels antiquated, but it's almost hard to tell with the mess of tissues all around."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On the coffee table in front of the old couch is a nearly-empty tissue box and a full cup of tea, likely cold at this point."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I notice a book on the other end of the table. Seeing the title 'After the Mirage', I feel a bit queasy for an unexplained reason."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty's a pretty fast reader, so maybe they gave Chelsea the book afterwards."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A vinyl record spins on the old record player by the couch, playing \"Mad World\"."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin picks up Chelsea and puts her on the couch."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take a seat in one of the armchairs while Katorin sits right next to Chelsea, stroking her hair away from her eyes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It takes a second before Katorin realizes that the record player is running."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have you been listening to this all day?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea's eyes close partially as if to silently agree."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I get up from the chair and walk over to the record player to stop the record from spinning."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, you poor thing..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I put the record into the appropriately matched sleeve next to the player."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks, [PlayerName]."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hope you don't mind him being here."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-it's fine..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea adjusts herself on the couch, trying to sit up. She buries her muzzle into her knees, ears down."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry for the mess..."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tell me what happened."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My... my mother showed up."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, no..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin hugs Chelsea awkwardly."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm so sorry."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea whimpers again, falling short of crying."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take the cold tea from the table and walk outside to dump it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As I walk back inside and look for a nearby kettle, I hear Chelsea trying to talk to Katorin, struggling to keep composure."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A-and she just started screaming and dead-naming a-at me."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She kept throwing things a-at me. Slurs, too."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's horrible. I'm sorry I wasn't there."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I eventually discover an electric kettle on the table by the staircase."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I swish the kettle around and realize there's plenty of water."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Furthermore, I eavesdrop a little as I put my hand over the spout to feel for any steam."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How did this happen?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I told Papa the-the thing..."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How did your mother find out?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-he told me that M-mom bumped into him at the dealership."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I found this out w-weeks ago..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The thing? Although intrigued, I stay away and reheat the water in the kettle and grab a chamomile tea bag from the box."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As I wipe the sides of the cup, I listen a little more."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sorry. I'm sure he didn't mean for this to happen."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-he didn't want to tell her at all..."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So your mother forced him to tell her?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She's insane. I'm so sorry."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin hugs Chelsea again while the kettle boils the water."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, the kettle stops, and I pour the water into the now clean cup."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take the filled up over to the couch, making sure I don't trip on anything."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After gently placing the cup on the table in its original spot, I grab the dustpan and broom leaning on the wall and sweep up the tissues."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, I throw them into a nearby trashcan and take a sear in the armchair."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, thanks, [PlayerName]. You didn't have to do that."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The tea was cold when we walked in."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I couldn't help but overhear as I was wandering about. I'm terribly sorry about what happened."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea wants to say something, but seems too anxious to do so."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sorry if I'm making you feel uncomfortable. Would you like me to head into another room?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "N-no, it's fine. I-I'm a mess."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin rubs Chelsea's back while Chelsea intermittently whimpers."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I notice a small game console on the table next to a chess pawn, probably from the chessboard in the foyer."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I wanted to play a game on there, b-but I can't find the charger..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As Katorin tries to comfort Chelsea more, I get up and take a look at the bottom side of the console, realizing it takes the same charging cable as my phone."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fishing through my pockets, I eventually pull out my charging brick along with the cable."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, I find an open outlet in the wall, plug the brick in, and plug the console into the charging cable."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There. That should do it for now."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "T-thank you..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I make my way back to the armchair and take a seat."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two look at the table as I grab the book and inspect it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's a bookmark lodged about halfway between the covers, just like Marty's."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I haven't finished reading it."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you like murder mysteries, Chelsea?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A-a little..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm. I've been dating someone who was reading this just last week."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know Marty?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-yeah... they handed me the book when they were done."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see. Sorry for the random question."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea barely makes an attempt at a single light chuckle."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "God, my boyfriend must be worried sick..."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I'm sorry for ghosting you like that, Katorin."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I'm glad to know a witch didn't capture you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea tries to laugh again, and it somewhat succeeds."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What would happen i-if I did?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, we'd have bigger problems."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'd have to send [PlayerName] to find you."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That corner isn't as s-scary as it looks, Katorin."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did anyone else know about your absence?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I told Ben and Jordan I wouldn't be making it this week."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't write songs like this..."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I've tried to call Papa, but he hasn't been picking up..."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I probably would've fallen deeper into this hole of mine if it weren't for you two..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea hugs Katorin again, her tail slowly wagging."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you, bestie..."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wouldn't know what I would do without you..."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Anything for my favorite pup in the world."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two keep hugging for a short while."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea eventually lets go, sits up on the couch with her paws on the floor, and turns in my direction."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I'm sorry for this horrible display of a first introduction."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No need to worry, Chelsea. I wanted to make sure you were alright as much as Katorin did."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea grabs the tea cup from the table and sips lightly. Her eyes widen in surprise, not realizing the tea was hot."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oop! I didn't realize this was hot..."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[PlayerName] made you a fresh cup two minutes ago, silly."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh. I'm an idiot..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea sets the cup down, holding her hand under it to catch any loose drippings of tea."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She looks down at her paws in slight disappointment."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I want to paint my toenails again, but I ran out of nail polish..."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I like the natural color."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides, you wear sneakers almost all the time. No one's going to notice."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you're right..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What color do you usually paint them?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Either teal or orange. Sometimes both."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm. I can see where both of you are coming from."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh oh, [PlayerName] is now the arbiter of toenail polish colors."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea gets up from the couch and walks over to the outlet in the wall."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She checks the console for any signs of life. With much success, the display turns on with a charging symbol."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I guess I will have to put off my needed therapy until tonight."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or until I can find that darned charger."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can borrow mine until you find yours. I have plenty of bricks and cables."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, thanks, you don't have to..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea sits back down on the couch."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I should probably clean myself up. I've been in these clothes for days."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? I can't even tell."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin smirks."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright. I'll leave you to it, then."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't hesitate to call me for anything, alright?"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks, Katorin."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was a pleasure to have you around, [PlayerName]. I'm sorry for the trouble."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're good. Any friend of Katorin is a friend of mine, and I'm glad to see that you're okay."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks, [PlayerName]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin and I get up and make our way to the door. Chelsea gets up from the couch and walks up the stairs."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We walk outside and close the doors behind us. For the rest of the time, we casually walk down the road to Katorin's house."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank goodness she's alright. I thought she died!"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's a little extreme, don't you think?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, you know me, I tend to panic a lot."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "True."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't believe her mother would go after her like that."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Completely on a rampage, too. Gosh, she's such a Karen."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't even begin to imagine. It sounds like her mother's pretty distant from the rest of the family."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea's parents got divorced when she was just a toddler."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And, no surprise, her mother's an absolute die-hard... c-word..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, dear."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So of course there's natural tension between Chelsea and her mother."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No problems with the father, though. Daniel's such a blast. A real ally, too."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's nice."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, I'm sure Chelsea could tell you all day about how grateful she is to have her father."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He held her hand all the way through life, really."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She picked up his hands for incredible needlework, too."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Needlework?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Daniel's a tailor. He used to be a substitute teacher for a while, too."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh. That's pretty neat."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We turn the corner and keep sauntering down Narock Boulevard."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're just the sweetest anthros I've met in New Rollinsport."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A happy anthro-coyote father with his lovely trans daughter."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea's trans?"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. She transitioned when she was in kindergarten."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh. That's pretty cool; I had no idea."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, if the trans flag pin on her jacket didn't give it away a month ago..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, I was completely plastered thanks to someone."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're welcome."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin rolls her eyes and smirks."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But yeah..."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, let's hope Chelsea's mother doesn't come after her again."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hope so, too."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I'm sorry I dragged you into this instead of letting you go on your date."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To be fair, they haven't respon-"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I stop for a moment, interrupting my sentence. [i]They haven't responded...[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Neither Chelsea nor Marty texted anyone within the past couple of days."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And, given that Chelsea is transgender and what Ben told me, she answers to they/them, too."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh... I dismiss the thought and finish the sentence."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They haven't responded."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's unfortunate."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I'm sure they'll get back to me at some point."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess I have to be the one to pick the places next time."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, I'm sure it was an honest mistake."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They seem too invested into you to purposely not tell you anything."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. I'll call them later tonight."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's a good idea."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And don't worry about tonight, Katorin."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As long as Chelsea's in a better state of mind, that's all that matters to me."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, [PlayerName], thanks for helping me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We arrive at Katorin's apartment building."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well... this is where I get off. See ya, [PlayerName]."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright. See you later, Katorin."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin walks inside the building as I turn the corner and make my way back home."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The thought I had just a moment ago creeps back into my mind. Are Marty and Chelsea related?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I might be pulling at straws, but things seems to be lining up too well."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I dismiss the thought again, realizing that Marty's going to have to reveal themselves at some point."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope Marty responds to my texts later tonight."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641559441.json",
+		"name": "scpt04"
+	}
+}
