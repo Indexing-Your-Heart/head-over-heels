@@ -55,7 +55,19 @@ public class MarkdownDialogicParser {
 
     /// Parses a list item as a choice.
     private func parseChoice(_ choice: ListItem) -> Choice {
-        Choice(choice: "", dialogue: [Dialogue]())
+        let choiceName = choice.child(through: 0, 0) as! Text
+        let choiceResults = choice.child(through: 1) as! UnorderedList
+        var dialogues = [Dialogable]()
+
+        for dialogue in choiceResults.children {
+            if let dList = dialogue as? ListItem {
+                for children in dList.children where children is Paragraph {
+                    dialogues.append(contentsOf: parseParagraph(children as! Paragraph))
+                }
+            }
+        }
+
+        return Choice(choice: choiceName.plainText, dialogue: dialogues)
     }
 
     /// Parses a paragraph, extracting narration and dialogue elements as necessary.
@@ -68,13 +80,13 @@ public class MarkdownDialogicParser {
 
         // Create a regex that will look for the format `Name: "Speech."`. This will, in turn, seek out dialogue lines
         // from a regular line of text.
-        let diaRegex = #"([A-Za-z]+):\s“([\w.!\?\s,;]+)+”(\s\s)?"#
+        let diaRegex = #"([A-Za-z]+):\s*[“"]([\w\.!\?\s,;'…]+)+[”"](\s+)?"#
 
         // Loop through all of the children.
         for child in paragraph.children {
             // If the child is a Text element, start looking for lines of text to parse.
             if let line = child as? Text {
-
+                
                 // If the text is narration (i.e., doesn't match the text, just insert the plain text.
                 if line.plainText.range(of: diaRegex, options: [.regularExpression]) == nil {
                     dialogues.append(
@@ -100,7 +112,17 @@ public class MarkdownDialogicParser {
 
     /// Parses a list item as a question
     private func parseQuestion(_ question: ListItem) -> Question {
-        print(question.debugDescription())
-        return Question(question: "FUCK", choices: [Choice]())
+        let questionNameField = question.child(through: 0, 0) as! Text
+        let choiceList = question.child(at: 1) as! UnorderedList
+        let ques = questionNameField.plainText == "(Choice)" ? "" : questionNameField.plainText
+        var choices = [Choice]()
+
+        for choice in choiceList.children {
+            if let choiceLI = choice as? ListItem {
+                choices.append(parseChoice(choiceLI))
+            }
+        }
+
+        return Question(question: ques, choices: choices)
     }
 }

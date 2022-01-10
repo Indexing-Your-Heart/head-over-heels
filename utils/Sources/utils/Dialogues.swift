@@ -55,7 +55,7 @@ public struct Question: Dialogable {
 public struct Choice: Dialogable {
     public var type: DialogueType { .choice }
     public let choice: String
-    public let dialogue: [Dialogue]
+    public let dialogue: [Dialogable]
 }
 
 /// A no-op dialogue interaction for commentary.

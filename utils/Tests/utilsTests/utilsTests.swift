@@ -13,24 +13,5 @@ import XCTest
 import utils
 
 final class utilsTests: XCTestCase {
-    func testMarkdownParsing() throws {
-        let example = """
-        Slowly, I walk over to the bar. I'm not sure if I can handle it.
 
-        Player: "Can I get a drink?"  
-        Bartender: "Sure, what can I get you?"
-
-        - (Choice)
-            - "A beer."
-                - Bartender: "Sure thing."
-            - "A glass of wine."
-                - Bartender: "Are you sure about that?"
-
-        > Note: This should be ignored! Disregard this comment.
-        """
-        let parsedData = MarkdownDialogicParser(from: example).parse()
-        print(parsedData)
-
-        XCTAssertEqual(parsedData.count, 5)
-    }
 }
