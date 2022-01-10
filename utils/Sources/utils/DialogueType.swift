@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  DialogueType.swift
 //  Created by Marquis Kurt on 10/1/22.
 //  This file is part of Indexing Your Heart.
 //
@@ -11,13 +11,11 @@
 //  details.
 
 import Foundation
-import ArgumentParser
 
-// TODO: Implement this with the various subcommands: dialogue, portraits.
-struct UtilsProgram: ParsableCommand {
-
-
-
+public enum DialogueType {
+    case dialogue
+    case narration
+    case question
+    case choice
+    case comment
 }
-
-UtilsProgram.main()

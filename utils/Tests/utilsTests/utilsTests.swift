@@ -1,47 +1,36 @@
+//
+//  utilsTests.swift
+//  Created by Marquis Kurt on 10/1/22.
+//  This file is part of Indexing Your Heart.
+//
+//  Indexing Your Heart is non-violent software: you can use, redistribute, and/or modify it under the terms of the
+//  CNPLv7+ as found in the LICENSE file in the source code root directory or at
+//  <https://git.pixie.town/thufie/npl-builder>.
+//
+//  Indexing Your Heart comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law. See the CNPL for
+//  details.
 import XCTest
-import class Foundation.Bundle
+import utils
 
 final class utilsTests: XCTestCase {
-    func testExample() throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
+    func testMarkdownParsing() throws {
+        let example = """
+        Slowly, I walk over to the bar. I'm not sure if I can handle it.
 
-        // Some of the APIs that we use below are available in macOS 10.13 and above.
-        guard #available(macOS 10.13, *) else {
-            return
-        }
+        Player: "Can I get a drink?"  
+        Bartender: "Sure, what can I get you?"
 
-        // Mac Catalyst won't have `Process`, but it is supported for executables.
-        #if !targetEnvironment(macCatalyst)
+        - (Choice)
+            - "A beer."
+                - Bartender: "Sure thing."
+            - "A glass of wine."
+                - Bartender: "Are you sure about that?"
 
-        let fooBinary = productsDirectory.appendingPathComponent("utils")
+        > Note: This should be ignored! Disregard this comment.
+        """
+        let parsedData = MarkdownDialogicParser(from: example).parse()
+        print(parsedData)
 
-        let process = Process()
-        process.executableURL = fooBinary
-
-        let pipe = Pipe()
-        process.standardOutput = pipe
-
-        try process.run()
-        process.waitUntilExit()
-
-        let data = pipe.fileHandleForReading.readDataToEndOfFile()
-        let output = String(data: data, encoding: .utf8)
-
-        XCTAssertEqual(output, "Hello, world!\n")
-        #endif
-    }
-
-    /// Returns path to the built products directory.
-    var productsDirectory: URL {
-      #if os(macOS)
-        for bundle in Bundle.allBundles where bundle.bundlePath.hasSuffix(".xctest") {
-            return bundle.bundleURL.deletingLastPathComponent()
-        }
-        fatalError("couldn't find the products directory")
-      #else
-        return Bundle.main.bundleURL
-      #endif
+        XCTAssertEqual(parsedData.count, 5)
     }
 }
