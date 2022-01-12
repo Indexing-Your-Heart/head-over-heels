@@ -13,23 +13,29 @@
 import Foundation
 import ArgumentParser
 
+/// The main entry struct that holds all of the program commands.
 @main
 struct Marteau: ParsableCommand {
 
+    /// The configuration for the main program.
     static let configuration = CommandConfiguration(
         abstract: "A set of utilities for Indexing Your Heart.",
         subcommands: [Dialogue.self]
     )
 
+    /// The subcommand struct for dialogue conversion.
     struct Dialogue: ParsableCommand {
         static let configuration = CommandConfiguration(abstract: "Converts a Markdown document into Dialogic JSON.")
 
-        @Argument(help: "The path to the markdown file to convert.")
+        /// The path to the Markdown file to convert.
+        @Argument(help: "The path to the Markdown file to convert.")
         var markdownFile: String
 
+        /// The path to where the out JSON file should go.
         @Argument(help: "The path to where the output JSON file should go.")
         var outputFile: String = "timeline.json"
 
+        /// (Optional) The path to a directory of character definitions in Dialogic format.
         @Option(help: "The path to a directory of character definitions.")
         var characters: String?
 
