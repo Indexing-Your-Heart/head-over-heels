@@ -23,6 +23,7 @@ an addon.
 **Optional Tools**
 
 - Salmon 9 font family
+- Swift 5.5 (or later) toolchain (or Xcode 13 or later)
 
 Start by cloning the repository with `gh repo clone` and then open the project in Godot. Click
 "Build" to build the solution and then click the Play button to run the game from within the Godot
@@ -49,6 +50,20 @@ following files with the corresponding family variants:
 
 If you have not purchased the font and would like to do so, you can find the font on Phildjii's page
 on Itch.io at https://phildjii.itch.io/salmon-family.
+
+### Using the utilities package (Marteau)
+
+The Marteau package (`utils`) includes utilities for handling helper functions such as:
+
+- Updating build configurations
+- Converting Markdown documents to Dialogic timelines
+- Importing portraits into Dialogic quickly
+
+More information how to build Marteau and its usage can be found in the documentation at
+[utils/README.md](./utils/README.md).
+
+> Note: You will need either a developer toolchain for Swift or Xcode as described in
+> "Optional Tools" to build and run Marteau.
 
 ## Found an issue?
 
