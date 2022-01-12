@@ -79,7 +79,7 @@ final class MarkdownParsingTests: XCTestCase {
         }
     }
 
-    func testMarkdownCompiles() throws {
+    func testMarkdownParses() throws {
         let testExample = """
         It's another rainy day. I'm not sure I can handle it much longer.
 
@@ -98,5 +98,28 @@ final class MarkdownParsingTests: XCTestCase {
 
         let parsedData = MarkdownDialogicParser(from: testExample).parse()
         XCTAssertEqual(parsedData.count, 5)
+    }
+
+    func testMarkdownCompiles() throws {
+        let testExample = """
+        It's another rainy day. I'm not sure I can handle it much longer.
+
+        John: "Man, I really hate this rain. It never stops!"
+        Chelsea: "Relax! It'll be sunny tomorrow."
+
+        - What should I tell her?
+            - "No, it's not."
+                - I sulk a little.
+                - Chelsea: "Sorry, I just wanted to make you happy..."
+            - "Maybe..."
+                - Chelsea: "Maybe we can work on a puzzle together or something!"
+
+        > This is the end of the dialogue.
+        """
+
+        let parsedData = MarkdownDialogicParser(from: testExample).compileToString()
+        print("Resulting JSON:\n" + parsedData)
+
+        XCTAssertNotEqual(parsedData, "[]")
     }
 }

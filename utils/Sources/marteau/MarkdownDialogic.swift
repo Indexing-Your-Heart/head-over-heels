@@ -42,6 +42,42 @@ public class MarkdownDialogicParser {
         return parts
     }
 
+    /// Returns a list of JSON-like objects from the source string into Dialogic-readable JSON.
+    public func compile() -> [JSONLike] {
+        var compiled = [JSONLike]()
+        let parts = parse()
+        if parts.isEmpty {
+            return [JSONLike]()
+        }
+
+        for part in parts {
+            if part is Comment { continue }
+            if part is JSONCollapsible {
+                compiled.append(contentsOf: (part as! JSONCollapsible).collapseJSON())
+                continue
+            }
+            compiled.append(part.toJSON())
+        }
+
+        return compiled
+    }
+
+    /// Returns a String that represents Dialogic-readable JSON of the parsed content.
+    public func compileToString() -> String {
+        let compilation: [JSONLike] = compile()
+        var jsonResult = ""
+
+        do {
+            let json = try JSONSerialization.data(withJSONObject: compilation, options: .prettyPrinted)
+            jsonResult = String(decoding: json, as: UTF8.self)
+        } catch {
+            print("Error: \(error.localizedDescription)")
+            jsonResult = "[]"
+        }
+
+        return jsonResult
+    }
+
     /// Parses a block quote as a comment.
     private func parseBlockQuote(_ blockQuote: BlockQuote) -> Comment {
         var note = ""
@@ -80,7 +116,7 @@ public class MarkdownDialogicParser {
 
         // Create a regex that will look for the format `Name: "Speech."`. This will, in turn, seek out dialogue lines
         // from a regular line of text.
-        let diaRegex = #"([A-Za-z]+):\s*[“"]([\w\.!\?\s,;'…]+)+[”"](\s+)?"#
+        let diaRegex = #"([A-Za-z]+):\s*[“"]([\w\.!\?\s,;'’…]+)+[”"](\s+)?"#
 
         // Loop through all of the children.
         for child in paragraph.children {
