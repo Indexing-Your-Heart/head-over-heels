@@ -30,6 +30,9 @@ struct Marteau: ParsableCommand {
         @Argument(help: "The path to where the output JSON file should go.")
         var outputFile: String = "timeline.json"
 
+        @Option(help: "The path to a directory of character definitions.")
+        var characters: String?
+
         func validate() throws {
             guard markdownFile.hasSuffix(".md") else {
                 throw ValidationError("Supplied file must be a Markdown (.md) file.")
@@ -37,8 +40,14 @@ struct Marteau: ParsableCommand {
         }
 
         func run() throws {
-            let markdownText = try FileUtilities.read(from: markdownFile, encoding: .utf8)
-            let resultData = MarkdownDialogicParser(from: markdownText).compileToString()
+            let markdownText: String = try FileUtilities.read(from: markdownFile, encoding: .utf8)
+            let parser = MarkdownDialogicParser(from: markdownText)
+            if let charpath = characters {
+                let characterGlobs = try FileUtilities.readAll(from: charpath)
+                parser.characterDefinitions = try characterGlobs
+                    .map { try JSONDecoder().decode(DialogicCharacter.self, from: $0) }
+            }
+            let resultData = parser.compileToString()
             try FileUtilities.write(resultData, to: outputFile, encoding: .utf8)
         }
     }

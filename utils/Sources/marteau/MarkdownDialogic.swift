@@ -16,6 +16,7 @@ import Markdown
 
 public class MarkdownDialogicParser {
     public let srcText: String
+    public var characterDefinitions: [DialogicCharacter] = []
 
     public init(from source: String) {
         srcText = source
@@ -45,11 +46,24 @@ public class MarkdownDialogicParser {
     /// Returns a list of JSON-like objects from the source string into Dialogic-readable JSON.
     public func compile() -> [JSONLike] {
         var compiled = [JSONLike]()
-        let parts = parse()
+        var parts = parse()
         if parts.isEmpty {
             return [JSONLike]()
         }
 
+        // First-pass. Replace character names with their corresponding IDs, if there are definitions.
+        if !characterDefinitions.isEmpty {
+            parts = parts.map { part in
+                if !(part is Speakable) { return part }
+                var speaker = part as! Speakable
+                if let char = characterDefinitions.first(where: { $0.getAllNames().contains(speaker.who) }) {
+                    speaker.who = char.id
+                }
+                return speaker as! Dialogable
+            }
+        }
+
+        // Second-pass.
         for part in parts {
             if part is Comment { continue }
             if part is JSONCollapsible {

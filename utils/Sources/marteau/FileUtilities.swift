@@ -42,4 +42,25 @@ public struct FileUtilities {
             throw FError.fileNotFound
         }
     }
+
+    /// Read the contents of the file at the requested file path as a string.
+    /// - Parameter filepath: The path to the file to read.
+    /// - Parameter encoding: The encoding of the file.
+    /// - Returns: A Data object containing the contents of the file.
+    public static func read(from filepath: String, encoding: String.Encoding = .utf8) throws -> Data {
+        let filePath = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
+        let inPath = filePath.appendingPathComponent(filepath)
+        if let fileData = FileManager.default.contents(atPath: inPath.path) {
+            return fileData
+        } else {
+            throw FError.fileNotFound
+        }
+    }
+
+    public static func readAll(from directory: String, encoding: String.Encoding = .utf8) throws -> [Data] {
+        let filePath = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
+        let inPath = filePath.appendingPathComponent(directory)
+        return try FileManager.default.contentsOfDirectory(atPath: inPath.path)
+            .map { try read(from: directory + $0, encoding: encoding) }
+    }
 }

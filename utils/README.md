@@ -29,6 +29,8 @@ Marteau contains several subcommands:
   timeline. This does _not_ account for background image changes, sound changes, or signal
   emissions. This tool is designed to create a quick-start timeline where details can be added
   later.
+    - Optional: `--characters <charpath>`: A path to a list of JSON files that contain character
+      definitions in Dialogic format.
 - `portraits <portraits-path>`: Import portrait definitions into Dialogic by reading from the
   portraits directory.
 
