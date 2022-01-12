@@ -11,7 +11,7 @@
 //  details.
 
 import Foundation
-import utils
+import marteau
 import XCTest
 
 enum TestError: Error {
@@ -74,7 +74,7 @@ final class MarkdownParsingTests: XCTestCase {
             XCTAssertFalse(choice.choice == "")
             XCTAssertTrue(choice.dialogue.count == 1)
             for line in choice.dialogue where line is Speakable {
-                XCTAssertEqual((line as! Speakable).who, "Narrator")
+                XCTAssertEqual((line as! Speakable).who, "")
             }
         }
     }
