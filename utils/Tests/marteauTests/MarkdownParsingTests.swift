@@ -79,6 +79,7 @@ final class MarkdownParsingTests: XCTestCase {
         }
     }
 
+    /// Test that the Markdown to Dialogic parser can successfuly parse a full Markdown string.
     func testMarkdownParses() throws {
         let testExample = """
         It's another rainy day. I'm not sure I can handle it much longer.
@@ -100,6 +101,7 @@ final class MarkdownParsingTests: XCTestCase {
         XCTAssertEqual(parsedData.count, 5)
     }
 
+    /// Test that the Markdown to Dialogic parser can successfully compile to a JSON string and write to a JSON file.
     func testMarkdownCompiles() throws {
         let testExample = """
         It's another rainy day. I'm not sure I can handle it much longer.
@@ -121,5 +123,11 @@ final class MarkdownParsingTests: XCTestCase {
         print("Resulting JSON:\n" + parsedData)
 
         XCTAssertNotEqual(parsedData, "[]")
+        let filename = "timeline-test_markdown_compiles.json"
+        try FileUtilities.write(parsedData, to: filename)
+
+        let rootPath = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
+        let testPath = rootPath.appendingPathComponent(filename)
+        XCTAssertTrue(FileManager.default.fileExists(atPath: testPath.path))
     }
 }
