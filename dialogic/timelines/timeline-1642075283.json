@@ -1,0 +1,1959 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s nearly been two weeks since Katorin and I checked on Chelsea."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Thankfully, Marty did get back to me the day after and let me know that they couldn’t meet until now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " During that time, I’ve been focusing on self-care and learning some new technologies. I heard that Flutter was pretty good, so I’ve been learning that."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " During that time, I’ve also been thinking through that hypothesis I came up with."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Almost everything seems to line up, and I have little doubt to believe that Marty and Chelsea are related in some way. Heck, maybe they are one and the same."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Now that’s a wild theory."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In any case, it’s not going to stop me from sprucing up my place a little. I scrub the counter tops and make sure I don’t miss any rough spots."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Marty hasn’t responded in the past hour, so I am unsure if we’re meeting up at all tonight."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I finish scrubbing the last tough spot when I hear a knock on the door."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Coming!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I stop what I’m doing, wash my hands, and walk over to the entrance door. To my surprise, Marty stands in the doorway."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“Hey.”"
+		},
+		{
+			"choice": "“I didn’t realize you were coming up here to meet me.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I don’t really feel like going anywhere right now.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Rather, I just want to talk…”"
+		},
+		{
+			"choice": "“Are you alright?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah, mostly.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I know it’s been, like, forever, since we’ve gone on a date.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“But I just want to skip the pleasantries and talk…”"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Talk?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“There’s… some things I want to get off my chest, that’s all.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sure.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I step aside and let Marty enter the apartment. As I close the door, Marty notices the spray cleaner on the counter."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh. Was I interrupting something?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Nah, I just wanted to spruce up the place a little before I met up with you.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Just some self-care stuff, really.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, that’s nice. I could use a little myself.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“The sprucing, or…?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“These past few weeks have done a good number on me, [PlayerName].”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I don’t know how much dream therapy is gonna compensate for that.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Dream therapy?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ehh, that’s a long story. Maybe another time.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty grabs a stool under the counter and sits on it, resting their elbows on the just-cleaned countertop."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“So, my birthday’s coming up…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ah, right. It’s in mid-September, isn’t it?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Right…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“My friends want to take me out for a couple of beers.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And I didn’t realize it was on a Friday. But maybe this works out.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Maybe you want to go with me and meet my friends?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sure, that sounds like a fun time.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty looks down at the counter, likely in embarrassment."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Is there something wrong?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“No, no, it’s just…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’ll be the first time we’ve been together when I’m not wearing this costume.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And I don’t know how you’re gonna react to that.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty sighs and leans their helmet on their arms, crossed on the countertop."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I know you want to see what’s under this thing.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And believe me, I want that, too.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m just… worried that you’re not gonna like me after I take this helmet off.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What makes you say that?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Our relationship is different, [PlayerName]. You just don’t know [i]how[/i] different.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take a seat on a stool next to theirs."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I really, really like you, [PlayerName]. And I want to be with you.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“This has been the best thing that could happen to me within the past few years.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“But I’m scared it’s gonna fall apart in a matter of seconds…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t tell if they’re trying to get me to not go, or if they’re looking for advice from me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What should I say?"
+		},
+		{
+			"choice": "“Do you want me to not go?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What? No, that’s not it.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’ll only be delaying the inevitable if you do that.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I just…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Please, don’t hate me when I take this off…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I get off the stool and hug Marty."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re very charming, funny, and very awkward, Marty.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I don’t think you taking off that costume is going to do much.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty lightly sighs in relief."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Thanks for the reassurance.”"
+		},
+		{
+			"choice": "“Why not just keep the costume on?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1634438325-870",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“My friends have no idea about all of this, [PlayerName].”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“They’d probably think I’m keeping away from you or something.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I have to take this off for you if I’m gonna make this as ‘normal’ as possible.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re still going to be you either way.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I care more about what’s inside than the hammer itself.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I poke at the helmet, unready to feel something squishy on the other end."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… did you just…?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Uh, I was not expecting there to be anything on the other side.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sorry about that. I didn’t mean to do that…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ehehe… it’s fine… just some tightly packed polyester fill, that’s all!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It felt much more squishy than that, but I’ll dismiss the thought to keep Marty happy."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Alright, then.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty seems much more at ease."
+		},
+		{
+			"choice": "“Do you trust me?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, yeah, but… I don’t know if you trust me, [PlayerName].”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m sure someone else that’s in my position would probably not trust you.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And, yeah, I had my doubts the first time we met.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty looks to the side, embarrassed and nervous. I grab their hand."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“But I trust you.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re very charming, funny, and very awkward, Marty.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“As long as we trust each other, nothing’s gonna happen when you take off that costume.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty lightly sighs in relief."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Thanks for the reassurance.”"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, I guess that settles it.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Seems like it.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Was there anything else you wanted to get off your chest?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, uh…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty stares at me for a few solid seconds. Or at least I [i]think[/i] they are."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You know, I think you answered all of them.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, I’m glad we were able to sort it all out.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty continues to seemingly stare at me until they eventually break out of it."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ah, sorry! I…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I don’t know what came over me there…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I was… uhh…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Never mind that.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Alright.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I put the spray cleaner and roll of paper towels under the sink."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“How have the last couple of weeks been?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“All over the place.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“How come?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, I was a train wreck for nearly a week.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And then just playing catch-up after that has been… exhausting.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I still feel so behind. I’m sorry that I couldn’t do anything.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hey, as long as you’re alright now, it’s totally fine.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Take whatever time you need to take care of yourself.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Gee, when was the last time I did that…?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… sorry, that was weird and uncalled-for.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You sure you’re alright?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty leans their head on their elbows again."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… no.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, dear…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m just so bloody exhausted and anxious, and I haven’t eaten since breakfast.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I sigh, grab my phone, and call the local pizzeria."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yes, I’d like to place an order for two pies. One cheese and one pepperoni.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty lifts their head slightly in confusion while I continue talking on the phone."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sounds good, thanks.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hang up the phone and place it on the table."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Pizza should get here in about forty-five minutes.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“[PlayerName], y-you didn’t have to do that…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You need food in your stomach. Maybe a nap, too.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“B-but…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty tries to defend themselves, but aren’t able to and give up in defeat."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Alright…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I want to make sure you’re alright.”"
+		},
+		{
+			"condition": "",
+			"definition": "1634438325-870",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I poke at the helmet, unready to feel something squishy on the other end."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… did you just…?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Uh, I was not expecting there to be anything on the other side.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sorry about that. I didn’t mean to do that…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ehehe… it’s fine… just some tightly packed polyester fill, that’s all!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It felt much more squishy than that, but I’ll dismiss the thought to keep Marty happy."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Alright, then.”"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Here, let’s head into the living area.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guide Marty off the stool and into the living area. While I sit down on the armchair, Marty takes the couch, keeping to themselves."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re not going to feel any better if you stay tense like that.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m staying on the armchair.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… are you sure? I don’t want to invade your space or anything…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Marty, you need some space to breathe and relax.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m trying to offer that to you. Nothing is going to happen; I’ll make sure of it.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… alright. But if something does happen…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Which it won’t…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“The helmet. Stays. On.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I let out a frustrated sigh."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Look, I’m just making sure. It’s too early for that kind of stuff to happen anyway.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You had no problem sleeping right on me two weeks ago.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“That was different! And it happened completely by accident!”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And besides, I was all bundled up in this costume.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Marty?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Just take a nap. Like, seriously.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re only going to exhaust yourself further.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… Fine.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Would you like a blanket?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty takes off their shoes, slowly swings their legs up on the couch, and zips up their feet like weeks ago."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… right. I forgot.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hear a knock on the door."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’ll get it.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I walk over to the door and open it, surprised to see Katorin at the door."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“[PlayerName]! Hey!”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Uh, hi…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Just give me a second and I’ll come out into the hallway.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I gently close the door and walk over to Marty."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… was that Katorin?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah, but don’t you worry.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’ll talk to her outside, so you can enjoy some uninterrupted peace and quiet.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Okay.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As Marty gets comfortable and puts their helmet on a pillow, I walk back to the door, open it, and step outside."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I try to make sure I close the door as quietly as possible."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What’s up?”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Just wanted to check how you’re doing.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m fine. But I know there’s something…”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, right! Chelsea’s birthday’s coming up in mid-September, and we were planning to get drinks with her.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Really? When is that?”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I think it’s on a Friday. Let me check.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Katorin checks her phone."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yup, it is.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Weird. Chelsea and Marty have birthdays on the same day, and they’re both planning very similar parties? Something isn’t adding up."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Huh. Noted.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I was wondering if you wanted to join us.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hmm, I’m actually busy that night. Marty’s also doing something special for their birthday.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ah. That’s fine, you can just jump between tables or something.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Speaking of which…”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Have you heard anything from Chelsea?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, no, but I’d like to imagine she’s doing fine.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, maybe she’s as exhausted as Marty is.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ah, okay. I thought she might’ve told yo- wait, what?”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What does Marty have to do with this?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I think Marty and Chelsea have gone through similar things the past couple of weeks.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Huh. I wonder what gave you the idea.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, Marty told me they’ve been really exhausted from playing catch-up.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“And given Chelsea’s state of mind a couple of weeks ago, I could-”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I pause for a moment and listened to my own statement. How could Chelsea and Marty have had similar experiences the past couple of weeks?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " That doesn’t make any sense. Unless…"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… see… why.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Are you alright, [PlayerName]?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… Sweet Federighi…”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What is it, [PlayerName]?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s no other way it could be: Marty and Chelsea are the same person. [i]Marty is Chelsea[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ". Everything’s starting to make sense now. The way Marty acts, the costume, the incident from weeks ago…"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“[PlayerName]! Hello?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I snap out of my thoughts and return to reality, realizing that, among many things, Katorin is waving her hand in front of me."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Gah!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As a knee-jerk reaction, I push her hand away."
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Are you alright? You’ve been staring off into the void.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah, I’m fine. I just thought of something.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh… I’m sorry, I didn’t realize you were having an epiphany.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’s fine, really. You just helped me realize something.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“In that case, I think I can make it.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ah, well, I’ll let everyone else know.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re planning to get her anything?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah, of course.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ooh, any ideas?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’ll figure it out. Is there anything else, Katorin?”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“No, that settles it.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Alright. I’m heading back inside and checking on Marty. I want to make sure they haven’t fallen off the couch.”"
+		},
+		{
+			"character": "character-1635562009.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sounds like a good idea. See ya, [PlayerName].”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“See ya.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I step inside, replaying my thoughts. There’s a small chance I’m wrong and things just happen to overlap really well."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " But there’s no way this is all coincidence, it must be that Chelsea is under that costume."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " But then that leaves on question: what in the world did I touch when I poked her helmet?"
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 2
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh… that was her snoot. And I booped it. Whoops."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I head over to the armchair and take a seat, checking that Marty, well… possibly Chelsea, didn’t roll off the couch."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Thankfully, they’re sound asleep on the couch. I sigh in relief, grab my laptop from my room, and continue with the Flutter tutorials until the pizza arrives."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As soon as I hear a knock on the door, I get up and rush to the door. I greet the delivery person, hand them the money, and take the pizzas from their hands."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After placing them on the counter and wiping my hands clean with a paper napkin, I walk over to Marty and gently nudge them."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hey, the pizza’s here.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty struggles to form words as they slowly rise."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… pizza… time?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah. You can stay here, I’ll bring a plate over for you.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty shakes themselves awake and sit upright while I go back to the kitchen."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I grab both a cheese and pepperoni slice, place it on the plate, and make my way back to the living room to hand it to Marty."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Here. I’ll bring napkins in just a second.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I walk back to the kitchen to make a plate for myself and grab napkins. Carefully, I make my way back with everything still intact."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I set the napkins down on the table and take a seat in the armchair. Marty awkwardly puts a slice into the hole they’ve unzipped."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Goodness, that looks so awkward, Marty.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty tries to giggle without choking on their food. Marty finishes their bite, places the slice down on their plate, and grabs a napkin."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Believe me, it’s as awkward as it looks…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I can imagine so. How’s the pizza?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Nice and warm. Thanks for feeding me, [PlayerName].”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I imagine a smile coming from under the helmet. As soon as Marty picks up their slice, I hear a phone ring to the tune of “Advice For The Young At Heart”."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Is that your phone, Marty?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, yeah. Bloody hell, I forgot to put my phone on silent…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’s probably Katorin.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty sets down the slice and tries to maneuver around in their costume to grab their phone."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " They manage to get the phone to fall down to the floor, where they zipped up the stub. Marty nearly slips, catching themselves on the couch."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hey [PlayerName], your hands are still clean.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Could you, uh, unzip my stub for me?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I nearly slipped on my phone and I can’t grab it.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sure.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I walk over to Marty, bend down, and unzip the zipper around the circumference of the costume."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The phone promptly falls to the floor, with the ringtone now audible."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As I pick up the phone from the floor, I notice that their toes are shaped differently from a human’s, which confirmed my suspicions."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I shake my head and stand back up to give the phone to Marty, who had wiped their hands. They take the phone from my hands and answer it."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hello?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I walk back over to the armchair."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, yeah, that’s cool with me.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“The girlfriend can come along, too.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I start eating one slice from my plate while Marty talks on the phone a little longer."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“He doesn’t need to get my anything, Katorin.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hey, uh, I’m at my boyfriend’s right now, and I just woke up from a nap.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Can I call you back later?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty looks in my general direction and nods to simulate an eye roll."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Thanks. Talk to you later. Bye.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty puts down the phone and picks up their plate."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sorry about that. Katorin was telling me another friend was coming to drinks along with their girlfriend, possibly.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Don’t worry. Katorin tends to show up at inopportune times.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty grabs one of the slices from their plate and performs the awkward ritual to eat it with the helmet on as I take another bite of mine."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’ve been wondering if I should change my ringtone at some point.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Why would you want to? Your current one seems very fitting.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It makes random calls at two in the morning pretty weird.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Who’s calling you at two in the morning?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Usually my friends. Sometimes a scammer.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh. I wonder why that is.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“They like to make sure I’m alive.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Now that I think about it, maybe I shouldn’t change it.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I don’t think I’ll ever find a good replacement for the one I have.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Marty takes another bite. I lightly chuckle, still unable to get over how it looks when Marty eats with the costume on."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What’s so funny?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I still can’t get over that.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m sure that reaction’s gonna change in a few weeks. Maybe a month at the very least.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We continue talking for a while and eating the pizza slices. There’s still nearly a box’s worth of pizza left."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I’ll just let Marty take that home with them."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After cleaning up the table and wrapping up dinner, we walk back to the living room and take our respective places."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I look up at Marty while they watch me grab my laptop from the table and open it."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“How are you feeling now?”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Full. And ready to drift off again.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m sorry for being so tired…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You’re more than welcome to take another nap on the couch.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I re-open the little demo app I had been working on for a while."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m sorry for intruding, but what are you working on?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, I’m just playing around with some new tech stuff. Well, new for me.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“… can I watch?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, um, sure…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I get up from my designated spot and walk over to the couch. Marty scoots over to make space for me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " As I sit down on the couch, Marty scoots back and places their helmet on my shoulder, looking down at the laptop."
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Are you okay with this?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah, it’s fine.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“What is this? I’ve never seen syntax like that before…”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Flutter. Supposed to make mobile app development easier, apparently.”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh. This looks so different…”"
+		},
+		{
+			"character": "character-1641214293.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Maybe I’ll just watch you do this.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“That’s fine, Marty.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I quickly put on some lo-fi music and switch back to my editor. Marty moves their helmet slightly to get more comfortable on my shoulder while I type away. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fifteen minutes pass, and Marty is sound asleep on my shoulder. I can faintly hear their breathing while I keep working and trying all sorts of things."
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 3
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Night falls rather quickly, and I’m feeling just as tired myself. I close the laptop, put it on the table, and shut my eyes for a brief moment."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All things considered, this feels nice. I hope Marty is able to feel well-rested after this."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I start to doze off, dreaming about what my life could be like if Chelsea and I were together."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " It doesn’t seem that far off, if my theory holds true, and I, for one, would be fine with it. I guess I’ll find out soon enough."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1642075283.json",
+		"name": "scpt05"
+	}
+}
