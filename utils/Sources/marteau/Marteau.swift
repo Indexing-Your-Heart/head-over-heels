@@ -48,10 +48,12 @@ struct Marteau: ParsableCommand {
         func run() throws {
             let markdownText: String = try FileUtilities.read(from: markdownFile, encoding: .utf8)
             let parser = MarkdownDialogicParser(from: markdownText)
+            print("[i] Parser created.")
             if let charpath = characters {
                 let characterGlobs = try FileUtilities.readAll(from: charpath)
                 parser.characterDefinitions = try characterGlobs
                     .map { try JSONDecoder().decode(DialogicCharacter.self, from: $0) }
+                print("[i] Character definitions added.")
             }
             let resultData = parser.compileToString()
             try FileUtilities.write(resultData, to: outputFile, encoding: .utf8)

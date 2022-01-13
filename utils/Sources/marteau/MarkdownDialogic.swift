@@ -40,6 +40,7 @@ public class MarkdownDialogicParser {
             }
         }
 
+        print("[i] Parsed \(parts.count) items.")
         return parts
     }
 
@@ -53,13 +54,27 @@ public class MarkdownDialogicParser {
 
         // First-pass. Replace character names with their corresponding IDs, if there are definitions.
         if !characterDefinitions.isEmpty {
-            parts = parts.map { part in
-                if !(part is Speakable) { return part }
-                var speaker = part as! Speakable
+
+            func updatePart(_ part: Speakable) -> Dialogable {
+                var speaker = part
                 if let char = characterDefinitions.first(where: { $0.getAllNames().contains(speaker.who) }) {
                     speaker.who = char.id
                 }
                 return speaker as! Dialogable
+            }
+
+            parts = parts.map { part in
+                if part is Speakable { return updatePart(part as! Speakable) }
+                if part is Question {
+                    let question = part as! Question
+                    let newChoices: [Choice] = question.choices.map { choice in
+                        let newDialog: [Dialogable] = choice.dialogue
+                            .map { diag in updatePart(diag as! Speakable) }
+                        return Choice(choice: choice.choice, dialogue: newDialog)
+                    }
+                    return Question(who: question.who, question: question.question, choices: newChoices)
+                }
+                return part
             }
         }
 
@@ -73,6 +88,7 @@ public class MarkdownDialogicParser {
             compiled.append(part.toJSON())
         }
 
+        print("[i] Compiled \(compiled.count) items.")
         return compiled
     }
 
@@ -130,7 +146,7 @@ public class MarkdownDialogicParser {
 
         // Create a regex that will look for the format `Name: "Speech."`. This will, in turn, seek out dialogue lines
         // from a regular line of text.
-        let diaRegex = #"([A-Za-z]+):\s*[“"]([\w\.!\?\s,;'’…]+)+[”"](\s+)?"#
+        let diaRegex = #"([A-Za-z]+):\s*“([\w\.!\?\s,;'‘’\-…\[\]]+)”+(\s+)?"#
 
         // Loop through all of the children.
         for child in paragraph.children {
@@ -153,6 +169,21 @@ public class MarkdownDialogicParser {
                             who: splitContents.first!,
                             what: splitContents.last!
                         )
+                    )
+                }
+            }
+
+            else if let italics = child as? Emphasis {
+                let text = italics.child(at: 0) as! Text
+                if let lastPart = dialogues.last as? Speakable {
+                    let newWhat = lastPart.what + "[i]\(text.plainText)[/i]"
+                    let newWho = lastPart.who
+                    let newType = dialogues.last!.type
+                    dialogues.removeLast()
+                    dialogues.append(
+                        newType == .narration
+                        ? Narration(what: newWhat)
+                        : Dialogue(who: newWho, what: newWhat)
                     )
                 }
             }

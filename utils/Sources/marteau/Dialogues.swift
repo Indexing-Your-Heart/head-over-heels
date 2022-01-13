@@ -91,8 +91,14 @@ public struct Question: Dialogable, JSONCollapsible {
         ]
     }
 
+    private func endQuestionNode() -> JSONLike {
+        [
+            "event_id": "dialogic_013"
+        ]
+    }
+
     public func collapseJSON() -> [JSONLike] {
-        [toJSON()] + choices.flatMap { choice in choice.collapseJSON() }
+        [toJSON()] + choices.flatMap { choice in choice.collapseJSON() } + [endQuestionNode()]
     }
 }
 
@@ -112,14 +118,8 @@ public struct Choice: Dialogable, JSONCollapsible {
         ]
     }
 
-    private func endQuestionNode() -> JSONLike {
-        [
-            "event_id": "dialogic_013"
-        ]
-    }
-
     public func collapseJSON() -> [JSONLike] {
-        [toJSON()] + dialogue.map { dialogue in dialogue.toJSON() } + [endQuestionNode()]
+        [toJSON()] + dialogue.map { dialogue in dialogue.toJSON() }
     }
 }
 
