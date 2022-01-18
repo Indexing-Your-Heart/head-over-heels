@@ -1,0 +1,477 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s been at least a year since I’ve gone on a hike, and I must have fallen out of shape since then. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can barely keep up with Chelsea, who is yards away from me. She doesn’t seem to mind, though."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hey, wait up!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea stops at a nearby tree and turns around. She leans her arm against the tree and crosses her legs."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Gee, [Player]! I didn’t realize just how out of shape you are!”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’s been a while, alright?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea smiles as I walk over to her. She pulls out a water bottle from the side of her bag."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Here. You’ll want to stay hydrated.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I open the bottle and take a sip. Chelsea grabs the other water bottle and drinks some of it."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Thanks.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“We’re almost at the top. Should be there in about ten, maybe fifteen, minutes.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh, good.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’ll be easier on the way down. Trust me.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She grabs the bottles and puts them back on the sides of the bag and turns around. We keep walking up the rough terrain. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I still can’t believe it’s only been eight months since she took her helmet off and, more importantly, since we got serious with this relationship of ours. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So serious, in fact, that we got engaged a month ago."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can see her ring shimmer in the sunlight as we take a sharp turn around the boulder and up to the next trail marker. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve nearly forgotten what they mean, but I trust that Chelsea knows at least enough to navigate the trail. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We eventually reach a fork in the path. Incidentally, Chelsea and I split, with her taking the right path, and me the left. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After a few seconds, she turns around, realizing I wasn’t behind her."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oi! [Player]! Wrong way!”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Don’t these lead to the same place?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea walks over to me."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“The marker says to go to the right, silly.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“You see how the squares are leaning to the right?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She points to the trail marker posted on the tree, showing two squares leaning to the right."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Oh. My bad.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It really has been a long time since you’ve last hiked, hasn’t it?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Yeah. It has.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea grabs my hands and walks over to her path."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Papa used to take me on this trail all the time when I was a little pup.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“He’d teach me everything about hiking.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“He even let me lead the way, relying on the trail markers for guidance.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“He doesn’t do it a lot nowadays because he’s getting older.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I wouldn’t want him throwing his back out up here.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Me either.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We stop for a brief moment while Chelsea looks off to the side."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Wowie… look at that river down there, [Player]!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea points to a river toward the bottom of the hill, which continues to flow and meander about."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’ve never seen the river flowing this much.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Something must have cleared up somewhere to let this happen.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It’s so pretty to watch…”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I grab her hand while she continues to watch the river for a brief moment. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, Chelsea and I get back on track and continue walking up and around the hill. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Carefully, we climb up some boulders and keep moving until we eventually make it up to the top of the incline."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“We’re here!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I stand right next to her and look off to the distance while regaining my breath. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a very clear view, and I can make out a lot of the areas we just hiked. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The waterfall rushes down the side of a nearby mountain, feeding into the river we looked at earlier."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can barely make out the road we traveled on to get to the trail."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Isn’t it beautiful?”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“As beautiful as you are.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea giggles."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Here, let’s take a seat on this rock.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We saunter over to the rock and take a seat. Chelsea pulls out the water bottles and hands me my bottle."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Thanks.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I take the bottle from her and drink from it. She opens her bottle up and drinks."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“So, about those numbers on Tropify…”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I know. It’s still hard for me to wrap my head around it.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Trending at number five on the list. I never tought I’d see the day!”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m proud of you, Chels.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I’m proud of you, too, ArcAI web development department head.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I wonder if someone’s gonna catch us making out on this rock soon.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Who cares if someone does?”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Besides, almost everyone in town knows we’re engaged.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“This shouldn’t be news to them.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“True, I suppose.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chelsea giggles lightly."
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“It only feels like I met you last week.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I didn’t think we’d make it this far as a couple.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I don’t know. I kinda dig hammers.”"
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“At least I don’t have to go to the hardware store to find the best one of the bunch.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Well, I guess you could say we nailed it.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We laugh for a moment and take another drink from our bottles. We could practically stay up here for hours."
+		},
+		{
+			"character": "character-1635561997.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“I love you, you goofy puppy.”"
+		},
+		{
+			"character": "character-1635562094.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Love you, too, monkey head.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We lean in and kiss for a short moment. I couldn’t be more grateful for all of this. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Things are going to get even better from here, and I’m excited to see what the future holds for me and my future wife."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1642498845.json",
+		"name": "scpt07"
+	}
+}
