@@ -14,6 +14,62 @@
 		{
 			"name": "Default",
 			"path": ""
+		},
+		{
+			"name": "akimbo_pigeontilted-Default_Expression",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Default_Expression.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Default_Expression",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Default_Expression.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Blink",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Blink.png"
+		},
+		{
+			"name": "akimbo_pigeontilted-Embarrassed",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Embarrassed.png"
+		},
+		{
+			"name": "akimbo_pigeontilted-Lipsync___Aa",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Lipsync___Aa.png"
+		},
+		{
+			"name": "akimbo_pigeontilted-Lipsync___Oh",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Lipsync___Oh.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Lipsync___Smile",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Lipsync___Smile.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Lipsync___Oh",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Lipsync___Oh.png"
+		},
+		{
+			"name": "akimbo_pigeontilted-Blink",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Blink.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Lipsync___Aa",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Lipsync___Aa.png"
+		},
+		{
+			"name": "akimbo_pigeontilted-Lipsync___Surprised",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Lipsync___Surprised.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Embarrassed",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Embarrassed.png"
+		},
+		{
+			"name": "doublepresenting_contrapposto-Lipsync___Surprised",
+			"path": "res://assets/characters/katorin/doublepresenting_contrapposto-Lipsync___Surprised.png"
+		},
+		{
+			"name": "akimbo_pigeontilted-Lipsync___Smile",
+			"path": "res://assets/characters/katorin/akimbo_pigeontilted-Lipsync___Smile.png"
 		}
 	],
 	"scale": 100

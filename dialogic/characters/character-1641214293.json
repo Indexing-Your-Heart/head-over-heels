@@ -14,6 +14,30 @@
 		{
 			"name": "Default",
 			"path": ""
+		},
+		{
+			"name": "armgrab_contrapposto",
+			"path": "res://assets/characters/chelsea/hammer/armgrab_contrapposto.png"
+		},
+		{
+			"name": "doubleraisedloosegrasp-pink",
+			"path": "res://assets/characters/chelsea/hammer/doubleraisedloosegrasp-pink.png"
+		},
+		{
+			"name": "handonhip_contrapposto-pink",
+			"path": "res://assets/characters/chelsea/hammer/handonhip_contrapposto-pink.png"
+		},
+		{
+			"name": "doubleraisedloosegrasp",
+			"path": "res://assets/characters/chelsea/hammer/doubleraisedloosegrasp.png"
+		},
+		{
+			"name": "armgrab_contrapposto-pink",
+			"path": "res://assets/characters/chelsea/hammer/armgrab_contrapposto-pink.png"
+		},
+		{
+			"name": "handonhip_contrapposto",
+			"path": "res://assets/characters/chelsea/hammer/handonhip_contrapposto.png"
 		}
 	],
 	"scale": 100

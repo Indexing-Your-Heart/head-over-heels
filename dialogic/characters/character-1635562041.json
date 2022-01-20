@@ -14,6 +14,46 @@
 		{
 			"name": "Default",
 			"path": ""
+		},
+		{
+			"name": "crossedarms-Default",
+			"path": "res://assets/characters/jordan/crossedarms-Default.png"
+		},
+		{
+			"name": "crossedarms-Smile",
+			"path": "res://assets/characters/jordan/crossedarms-Smile.png"
+		},
+		{
+			"name": "crossedarms-Skeptic",
+			"path": "res://assets/characters/jordan/crossedarms-Skeptic.png"
+		},
+		{
+			"name": "akimbo_contrapposto-Smile",
+			"path": "res://assets/characters/jordan/akimbo_contrapposto-Smile.png"
+		},
+		{
+			"name": "crossedarms-Smirk",
+			"path": "res://assets/characters/jordan/crossedarms-Smirk.png"
+		},
+		{
+			"name": "crossedarms-Surprised",
+			"path": "res://assets/characters/jordan/crossedarms-Surprised.png"
+		},
+		{
+			"name": "akimbo_contrapposto-Default",
+			"path": "res://assets/characters/jordan/akimbo_contrapposto-Default.png"
+		},
+		{
+			"name": "akimbo_contrapposto-Skeptic",
+			"path": "res://assets/characters/jordan/akimbo_contrapposto-Skeptic.png"
+		},
+		{
+			"name": "akimbo_contrapposto-Smirk",
+			"path": "res://assets/characters/jordan/akimbo_contrapposto-Smirk.png"
+		},
+		{
+			"name": "akimbo_contrapposto-Surprised",
+			"path": "res://assets/characters/jordan/akimbo_contrapposto-Surprised.png"
 		}
 	],
 	"scale": 100

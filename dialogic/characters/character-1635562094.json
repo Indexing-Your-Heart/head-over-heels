@@ -14,6 +14,270 @@
 		{
 			"name": "Default",
 			"path": ""
+		},
+		{
+			"name": "athletic-akimbo_wide-Athletic-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/athletic/akimbo_wide-Athletic-Ponytail-Giggle.png"
+		},
+		{
+			"name": "athletic-akimbo_wide-Athletic-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/athletic/akimbo_wide-Athletic-Ponytail-Smile.png"
+		},
+		{
+			"name": "athletic-raisedloosegrasp_knockkneed-Athletic-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/athletic/raisedloosegrasp_knockkneed-Athletic-Ponytail-Default.png"
+		},
+		{
+			"name": "athletic-akimbo_wide-Athletic-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/athletic/akimbo_wide-Athletic-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "athletic-explaining_pigeontilted-Athletic-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/athletic/explaining_pigeontilted-Athletic-Ponytail-Default.png"
+		},
+		{
+			"name": "athletic-explaining_pigeontilted-Athletic-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/athletic/explaining_pigeontilted-Athletic-Ponytail-Giggle.png"
+		},
+		{
+			"name": "athletic-akimbo_wide-Athletic-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/athletic/akimbo_wide-Athletic-Ponytail-Excited.png"
+		},
+		{
+			"name": "athletic-explaining_pigeontilted-Athletic-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/athletic/explaining_pigeontilted-Athletic-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "athletic-raisedloosegrasp_knockkneed-Athletic-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/athletic/raisedloosegrasp_knockkneed-Athletic-Ponytail-Giggle.png"
+		},
+		{
+			"name": "athletic-raisedloosegrasp_knockkneed-Athletic-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/athletic/raisedloosegrasp_knockkneed-Athletic-Ponytail-Excited.png"
+		},
+		{
+			"name": "athletic-explaining_pigeontilted-Athletic-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/athletic/explaining_pigeontilted-Athletic-Ponytail-Smile.png"
+		},
+		{
+			"name": "athletic-raisedloosegrasp_knockkneed-Athletic-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/athletic/raisedloosegrasp_knockkneed-Athletic-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "athletic-explaining_pigeontilted-Athletic-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/athletic/explaining_pigeontilted-Athletic-Ponytail-Excited.png"
+		},
+		{
+			"name": "athletic-raisedloosegrasp_knockkneed-Athletic-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/athletic/raisedloosegrasp_knockkneed-Athletic-Ponytail-Smile.png"
+		},
+		{
+			"name": "athletic-akimbo_wide-Athletic-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/athletic/akimbo_wide-Athletic-Ponytail-Default.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Smile.png"
+		},
+		{
+			"name": "formal-athletic-doubleexplaining_pigeon-Formal-Ponytail-Upset",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Upset.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Smile.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Default.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Giggle.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Puppy",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Puppy.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Puppy",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Puppy.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Upset_2",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Upset_2.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Upset_2",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Upset_2.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Giggle.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Default.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Excited.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Default.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Upset",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Upset.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Upset_2",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Upset_2.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Giggle.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Excited.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Upset",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Upset.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Upset",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Upset.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Smile.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Embarassed",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Embarassed.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Puppy",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Puppy.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Excited.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Puppy",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Puppy.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Lovey_Dovey.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Default",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Default.png"
+		},
+		{
+			"name": "formal-doubleexplaining_pigeon-Formal-Ponytail-Embarassed",
+			"path": "res://assets/characters/chelsea/formal/doubleexplaining_pigeon-Formal-Ponytail-Embarassed.png"
+		},
+		{
+			"name": "formal-armgrab_contrapposto-Formal-Ponytail-Smile",
+			"path": "res://assets/characters/chelsea/formal/armgrab_contrapposto-Formal-Ponytail-Smile.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Upset_2",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Upset_2.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Embarassed",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Embarassed.png"
+		},
+		{
+			"name": "formal-handonhip_pigeontilted-Formal-Ponytail-Giggle",
+			"path": "res://assets/characters/chelsea/formal/handonhip_pigeontilted-Formal-Ponytail-Giggle.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Excited",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Excited.png"
+		},
+		{
+			"name": "formal-armsbehind_knockkneed-Formal-Ponytail-Embarassed",
+			"path": "res://assets/characters/chelsea/formal/armsbehind_knockkneed-Formal-Ponytail-Embarassed.png"
+		},
+		{
+			"name": "doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Giggle",
+			"path": "res://assets/characters/chelsea/regular/doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Giggle.png"
+		},
+		{
+			"name": "handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Default",
+			"path": "res://assets/characters/chelsea/regular/handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Default.png"
+		},
+		{
+			"name": "akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Excited",
+			"path": "res://assets/characters/chelsea/regular/akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Excited.png"
+		},
+		{
+			"name": "handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Giggle",
+			"path": "res://assets/characters/chelsea/regular/handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Giggle.png"
+		},
+		{
+			"name": "doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Default",
+			"path": "res://assets/characters/chelsea/regular/doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Default.png"
+		},
+		{
+			"name": "handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Excited",
+			"path": "res://assets/characters/chelsea/regular/handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Excited.png"
+		},
+		{
+			"name": "akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Smile",
+			"path": "res://assets/characters/chelsea/regular/akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Smile.png"
+		},
+		{
+			"name": "akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Giggle",
+			"path": "res://assets/characters/chelsea/regular/akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Giggle.png"
+		},
+		{
+			"name": "doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/regular/doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Lovey_Dovey.png"
+		},
+		{
+			"name": "handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Smile",
+			"path": "res://assets/characters/chelsea/regular/handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Smile.png"
+		},
+		{
+			"name": "doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Smile",
+			"path": "res://assets/characters/chelsea/regular/doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Smile.png"
+		},
+		{
+			"name": "doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Excited",
+			"path": "res://assets/characters/chelsea/regular/doubleexplaining_pigeontilted-Default_Clothing_Style-Default_Hairstyle-Excited.png"
+		},
+		{
+			"name": "handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/regular/handonhip_contrapposto-Default_Clothing_Style-Default_Hairstyle-Lovey_Dovey.png"
+		},
+		{
+			"name": "akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Lovey_Dovey",
+			"path": "res://assets/characters/chelsea/regular/akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Lovey_Dovey.png"
+		},
+		{
+			"name": "akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Default",
+			"path": "res://assets/characters/chelsea/regular/akimbo_wide-Default_Clothing_Style-Default_Hairstyle-Default.png"
 		}
 	],
 	"scale": 100

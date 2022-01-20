@@ -14,6 +14,46 @@
 		{
 			"name": "Default",
 			"path": ""
+		},
+		{
+			"name": "crossedarms_contrapposto-Smile",
+			"path": "res://assets/characters/ben/crossedarms_contrapposto-Smile.png"
+		},
+		{
+			"name": "standby-Smirk",
+			"path": "res://assets/characters/ben/standby-Smirk.png"
+		},
+		{
+			"name": "standby-Surprise",
+			"path": "res://assets/characters/ben/standby-Surprise.png"
+		},
+		{
+			"name": "standby-Smile",
+			"path": "res://assets/characters/ben/standby-Smile.png"
+		},
+		{
+			"name": "standby-Default",
+			"path": "res://assets/characters/ben/standby-Default.png"
+		},
+		{
+			"name": "crossedarms_contrapposto-Smirk",
+			"path": "res://assets/characters/ben/crossedarms_contrapposto-Smirk.png"
+		},
+		{
+			"name": "standby-Skeptic",
+			"path": "res://assets/characters/ben/standby-Skeptic.png"
+		},
+		{
+			"name": "crossedarms_contrapposto-Default",
+			"path": "res://assets/characters/ben/crossedarms_contrapposto-Default.png"
+		},
+		{
+			"name": "crossedarms_contrapposto-Surprise",
+			"path": "res://assets/characters/ben/crossedarms_contrapposto-Surprise.png"
+		},
+		{
+			"name": "crossedarms_contrapposto-Skeptic",
+			"path": "res://assets/characters/ben/crossedarms_contrapposto-Skeptic.png"
 		}
 	],
 	"scale": 100
