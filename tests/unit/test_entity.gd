@@ -12,38 +12,31 @@
 extends GutTest
 # A test suite for the Entity class.
 
-onready var _scene_entity = preload("res://tests/scenes/test_entity.tscn")
-onready var _world = autofree(_scene_entity.instance())
-
-
-func before_each() -> void:
-    # Ran before each test.
-    _world = autofree(_scene_entity.instance())
-
 
 func test_entity_cast() -> void:
     # Test that the child can be cast to the Entity class type.
-    var entity = _world.get_child(0) as Entity
+    var entity = add_child_autofree(Entity.new())
     assert_not_null(entity)
+    assert_true(entity is Entity)
 
 
 func test_entity_damage() -> void:
     # Test that the entity can be damaged.
-    var entity = _world.get_child(0) as Entity
+    var entity = add_child_autofree(Entity.new())
     entity.damage(42)
     assert_eq(entity.get_health(), (100.0 - 42.0))
 
 
 func test_entity_died() -> void:
     # Test that the entity "dies" correctly.
-    var entity = _world.get_child(0) as Entity
+    var entity = add_child_autofree(Entity.new())
     entity.connect("entity_died", self, "_on_entity_died")
     entity.damage(100)
 
 
 func test_entity_health_stored() -> void:
     # Test that get_health returns the correct internal health meter.
-    var entity = _world.get_child(0) as Entity
+    var entity = add_child_autofree(Entity.new())
     assert_eq(entity.get_health(), 100.0)
 
 
