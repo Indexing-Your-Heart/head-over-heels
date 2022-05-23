@@ -13,8 +13,6 @@ jobs:
           version: "3.4.4"
           release_type: "stable"
           path: "."
-          # import-time: "5"
-          # test-timeout: "45"
-          # minimum-pass: "0.6"
           test-dir: "res://tests/unit"
+          ignore-errors: "true"
 
