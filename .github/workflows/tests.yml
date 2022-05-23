@@ -15,4 +15,6 @@ jobs:
           path: "."
           test-dir: "res://tests/unit"
           ignore-errors: "true"
-
+          max-fails: 3
+          minimum-pass: "0.95"
+          assert-check: "true"
