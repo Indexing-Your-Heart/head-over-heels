@@ -12,8 +12,6 @@
 extends GutTest
 # A test suite for the Player class.
 
-onready var _scene_player = preload("res://tests/scenes/test_player.tscn")
-
 var _sender = InputSender.new(Input)
 
 
