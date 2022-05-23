@@ -33,3 +33,8 @@ func damage(amount: float) -> void:
     emit_signal("entity_damaged")
     if _health == 0:
         emit_signal("entity_died")
+
+
+func heal(amount: float) -> void:
+    # Adds to the entity's health by a given amount.
+    _health = clamp(_health + amount, 0, 100)

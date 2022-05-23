@@ -40,5 +40,13 @@ func test_entity_health_stored() -> void:
     assert_eq(entity.get_health(), 100.0)
 
 
+func test_entity_heals() -> void:
+    # Test that the entity can be damaged.
+    var entity = add_child_autofree(Entity.new())
+    entity.damage(42)
+    entity.heal(10)
+    assert_eq(entity.get_health(), (100.0 - 32.0))
+
+
 func _on_entity_died() -> void:
     pass_test("Entity died (signal was connected and activated).")
