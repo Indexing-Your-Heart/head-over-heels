@@ -9,7 +9,7 @@
  "font_color": "ffc1bfce",
  "font_name": "Default",
  "font_size": 10,
- "hide_orphans": false,
+ "hide_orphans": true,
  "ignore_pause": true,
  "include_subdirs": false,
  "inner_class": null,
