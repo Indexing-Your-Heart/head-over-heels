@@ -17,6 +17,21 @@ export var STARTING_EXPERIENCE = 0
 signal leveled_up(level)
 
 var _experience = STARTING_EXPERIENCE
+var _velocity = Vector2.ZERO
+var _vctr = Vector2.ZERO
+
+const _acceleration = 250
+const _friction = 100
+const _max_speed = 1000
+const _speed = 500
+
+func _physics_process(delta: float) -> void:
+    var _move_vctr = get_movement()
+    if (_move_vctr != Vector2.ZERO):
+        _velocity += _move_vctr * _acceleration * delta
+        _velocity = _velocity.clamped(_max_speed * delta)
+    else: _velocity = _velocity.move_toward(Vector2.ZERO, _friction * delta)
+    _vctr = move_and_slide(_velocity * delta * _speed)
 
 
 func get_exp() -> int:
@@ -47,7 +62,8 @@ func grant_on(reference: Node, predicate: String) -> void:
 
 
 func get_movement() -> Vector2:
+    # Returns the movement vector based on player's input.
     return Vector2(
-        Input.get_axis("move_left", "move_right"),
-        Input.get_axis("move_up", "move_down")
+        Input.get_axis("move_right", "move_left"),
+        Input.get_axis("move_down", "move_up")
     )
