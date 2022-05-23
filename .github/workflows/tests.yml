@@ -1,5 +1,9 @@
 name: Unit Tests
-on: [push, workflow_dispatch]
+on:
+  push:
+    branches: [root]
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   test:
@@ -18,3 +22,4 @@ jobs:
           max-fails: 3
           minimum-pass: "0.95"
           assert-check: "true"
+
