@@ -38,6 +38,16 @@ _global_script_classes=[ {
 "class": "DialogicUtil",
 "language": "GDScript",
 "path": "res://addons/dialogic/Other/DialogicUtil.gd"
+}, {
+"base": "Reference",
+"class": "GutHookScript",
+"language": "GDScript",
+"path": "res://addons/gut/hook_script.gd"
+}, {
+"base": "Node",
+"class": "GutTest",
+"language": "GDScript",
+"path": "res://addons/gut/test.gd"
 } ]
 _global_script_class_icons={
 "DTS": "",
@@ -45,13 +55,21 @@ _global_script_class_icons={
 "DialogicBackgroundMusic": "",
 "DialogicDefinitionsUtil": "",
 "DialogicResources": "",
-"DialogicUtil": ""
+"DialogicUtil": "",
+"GutHookScript": "",
+"GutTest": ""
 }
 
 [application]
 
 config/name="Indexing Your Heart"
 config/icon="res://icon_proto.png"
+config/short_version="0.1.0"
+config/version=1
+
+[autoload]
+
+Utils="*res://scripts/utils.gd"
 
 [display]
 
@@ -62,7 +80,7 @@ window/stretch/aspect="keep"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/dialogic/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/dialogic/plugin.cfg", "res://addons/gut/plugin.cfg" )
 
 [gui]
 

@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Child1" type="Node2D" parent="."]
+
+[node name="Child2" type="Node2D" parent="."]
+
+[node name="Child3" type="Node2D" parent="."]
+
+[node name="never" type="Node2D" parent="."]
