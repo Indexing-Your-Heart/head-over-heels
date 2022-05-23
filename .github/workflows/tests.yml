@@ -1,0 +1,22 @@
+name: Unit Tests
+on: [push, workflow_dispatch]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+      - uses: croconut/godot-tester@v2.5
+        with:
+        version: "3.4.4"
+        release_type: "stable"
+        is-mono: "true"
+        path: "."
+        # import-time: "5"
+        # test-timeout: "45"
+        # minimum-pass: "0.6"
+        test-dir: "res://tests/unit"
+        assert-check: "true" 
+        max-fails: 0  
