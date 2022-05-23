@@ -7,11 +7,14 @@ _Codename Coyote Hammer_, using native Godot tools and the Dialogic library. The
 primary objective of this project is to continue developing the game without worrying
 about smaller developer details that could be easily re-implemented with an addon.
 
+![Unit Tests][gh-badge]
+
 > :warning: This project is still in its infancy, so some details and mechanics may
 > not work as intended. If you'd like to support the project,
 > [consider supporting the developers on Ko-fi][kofi].
 
 [kofi]: https://ko-fi.com/marquiskurt
+[gh-badge]: https://github.com/Indexing-Your-Heart/head-over-heels/actions/workflows/tests.yml/badge.svg
 
 ## Getting started: Build from source
 
