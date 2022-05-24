@@ -84,7 +84,6 @@ under open-source licenses:
 
 - Dialogic: MIT License
 - Godot: MIT License
-- .NET Core: MIT License
 
 You can also view the full list of contributors in the
 [CONTRIBUTORS.md](./CONTRIBUTORS.md) file.
