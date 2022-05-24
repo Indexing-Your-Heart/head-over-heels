@@ -1,4 +1,4 @@
-# Entity.gd
+# player.gd
 # Copyright (C) 2022 Marquis Kurt <software@marquiskurt.net> and contributors.
 # This file is part of Indexing Your Heart.
 #

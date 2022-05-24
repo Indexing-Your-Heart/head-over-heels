@@ -19,8 +19,7 @@ export var DAMAGE_MODIFIER = 1.0
 var _player: Player
 
 func _ready() -> void:
-    if PLAYER_PATH != null:
-        _player = get_node(PLAYER_PATH) as Player
+    attach_player_from_path()
 
 
 func _process(delta: float) -> void:
@@ -32,6 +31,11 @@ func attach_player(player: Player) -> void:
     _player = player
 
 
+func attach_player_from_path() -> void:
+    if PLAYER_PATH == null:
+        return
+    _player = get_node(PLAYER_PATH) as Player
+
 func attack() -> void:
     # Attacks the attached player.
     if _player == null:
@@ -39,3 +43,8 @@ func attack() -> void:
         return
     var natural_attack = 5 - (5 * (get_health() / DEFAULT_HEALTH))
     _player.damage(max(1, natural_attack * DAMAGE_MODIFIER))
+
+
+func has_player_attached() -> bool:
+    # Returns whether the enemy has a player attached as its target.
+    return _player != null

@@ -26,6 +26,8 @@ func test_enemy_attack() -> void:
     var player = add_child_autofree(Player.new())
 
     enemy.attach_player(player)
+    assert_true(enemy.has_player_attached())
+
     enemy.damage(12.0)
     enemy.attack()
 

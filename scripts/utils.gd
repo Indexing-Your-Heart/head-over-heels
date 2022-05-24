@@ -50,3 +50,8 @@ func _report_filter_error(value) -> void:
     var error_msg = "Predicate return type 'bool' expected, " + \
         "got %s instead." % (actual_type)
     push_error(error_msg)
+
+
+func todo(message: String = "") -> void:
+    if !message.empty():
+        push_warning("TODO: %s" % (message))
