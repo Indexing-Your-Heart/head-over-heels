@@ -53,5 +53,6 @@ func _report_filter_error(value) -> void:
 
 
 func todo(message: String = "") -> void:
+    # Marks a given function or method as to be done, with an optional message.
     if !message.empty():
         push_warning("TODO: %s" % (message))
